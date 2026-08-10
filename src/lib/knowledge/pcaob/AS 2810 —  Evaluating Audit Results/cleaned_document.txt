@@ -1,0 +1,198 @@
+AS 2810: Evaluating Audit Results
+Adopting Release:
+Amendments:
+Guidance on AS 2810: Staff Audit Practice Alerts and
+Summary Table of ContentsExpand Content
+Introduction
+.01 This standard establishes requirements regarding the auditor's evaluation of audit results and determination of whether he or she has obtained sufficient appropriate audit evidence.
+Objective
+.02 The objective of the auditor is to evaluate the results of the audit to determine whether the audit evidence obtained is sufficient and appropriate to support the opinion to be expressed in the auditor's report.
+Evaluating the Results of the Audit of Financial Statements
+.03 In forming an opinion on whether the financial statements are presented fairly, in all material respects, in conformity with the applicable financial reporting framework, the auditor should take into account all relevant audit evidence, regardless of whether it appears to corroborate or to contradict the assertions in the financial statements.
+.04 In the audit of financial statements, the auditor's evaluation of audit results should include evaluation of the following:
+The results of analytical procedures performed in the overall review of the financial statements ("overall review");
+Misstatements accumulated during the audit, including, in particular, uncorrected misstatements;
+The qualitative aspects of the company's accounting practices;
+Conditions identified during the audit that relate to the assessment of the risk of material misstatement due to fraud ("fraud risk");
+The presentation of the financial statements, including the disclosures; and
+The sufficiency and appropriateness of the audit evidence obtained.
+Performing Analytical Procedures in the Overall Review
+.05 In the overall review, the auditor should read the financial statements and disclosures and perform analytical procedures to (a) evaluate the auditor's conclusions formed regarding significant accounts and disclosures and (b) assist in forming an opinion on whether the financial statements as a whole are free of material misstatement.
+.06 As part of the overall review, the auditor should evaluate whether:
+The evidence gathered in response to unusual or unexpected transactions, events, amounts, or relationships previously identified during the audit is sufficient; and
+Unusual or unexpected transactions, events, amounts, or relationships indicate risks of material misstatement that were not identified previously, including, in particular, fraud risks.
+Note: If the auditor discovers a previously unidentified risk of material misstatement or concludes that the evidence gathered is not adequate, he or she should modify his or her audit procedures or perform additional procedures as necessary in accordance with paragraph .36 of this standard.
+.07 The nature and extent of the analytical procedures performed during the overall review may be similar to the analytical procedures performed as risk assessment procedures. The auditor should perform analytical procedures relating to revenue through the end of the reporting period.
+.08 The auditor should obtain corroboration for management's explanations regarding significant unusual or unexpected transactions, events, amounts, or relationships. If management's responses to the auditor's inquiries appear to be implausible, inconsistent with other audit evidence, imprecise, or not at a sufficient level of detail to be useful, the auditor should perform procedures to address the matter.
+.09 Evaluating Whether Analytical Procedures Indicate a Previously Unrecognized Fraud Risk. Whether an unusual or unexpected transaction, event, amount, or relationship indicates a fraud risk, as discussed in paragraph .06b, depends on the relevant facts and circumstances, including the nature of the account or relationship among the data used in the analytical procedures. For example, certain unusual or unexpected transactions, events, amounts, or relationships could indicate a fraud risk if a component of the relationship involves accounts and disclosures that management has incentives or pressures to manipulate, e.g., significant unusual or unexpected relationships involving revenue and income.
+Accumulating and Evaluating Identified Misstatements
+.10 Accumulating Identified Misstatements. The auditor should accumulate misstatements identified during the audit, other than those that are clearly trivial.
+Note: "Clearly trivial" is not another expression for "not material." Matters that are clearly trivial will be of a smaller order of magnitude than the materiality level established in accordance with AS 2105, Consideration of Materiality in Planning and Performing an Audit, and will be inconsequential, whether taken individually or in aggregate and whether judged by any criteria of size, nature, or circumstances. When there is any uncertainty about whether one or more items is clearly trivial, the matter is not considered trivial.
+.11 The auditor may designate an amount below which misstatements are clearly trivial and do not need to be accumulated. In such cases, the amount should be set so that any misstatements below that amount would not be material to the financial statements, individually or in combination with other misstatements, considering the possibility of undetected misstatement.
+.12 The auditor's accumulation of misstatements should include the auditor's best estimate of the total misstatement in the accounts and disclosures that he or she has tested, not just the amount of misstatements specifically identified. This includes misstatements related to accounting estimates, as determined in accordance with paragraph .13 of this standard, and projected misstatements from substantive procedures that involve audit sampling, as determined in accordance with AS 2315, Audit Sampling.
+.13 Misstatements Relating to Accounting Estimates. If the auditor concludes that the amount of an accounting estimate included in the financial statements is unreasonable or was not determined in conformity with the relevant requirements of the applicable financial reporting framework, he or she should treat the difference between that estimate and a reasonable estimate determined in conformity with the applicable accounting principles as a misstatement. If a range of reasonable estimates is supported by sufficient appropriate audit evidence and the recorded estimate is outside of the range of reasonable estimates, the auditor should treat the difference between the recorded accounting estimate and the closest reasonable estimate as a misstatement.
+Note: If an accounting estimate is determined in conformity with the relevant requirements of the applicable financial reporting framework and the amount of the estimate is reasonable, a difference between an estimated amount best supported by the audit evidence and the recorded amount of the accounting estimate ordinarily would not be considered to be a misstatement. Paragraph .27 discusses evaluating accounting estimates for bias.
+.14 Considerations as the Audit Progresses. The auditor should determine whether the overall audit strategy and audit plan need to be modified if:
+The nature of accumulated misstatements and the circumstances of their occurrence indicate that other misstatements might exist that, in combination with accumulated misstatements, could be material; or
+The aggregate of misstatements accumulated during the audit approaches the materiality level or levels used in planning and performing the audit.
+Note: When the aggregate of accumulated misstatements approaches the materiality level or levels used in planning and performing the audit, there likely will be greater than an appropriately low level of risk that possible undetected misstatements, when combined with the aggregate of misstatements accumulated during the audit that remain uncorrected, could be material to the financial statements. If the auditor's assessment of this risk is unacceptably high, he or she should perform additional audit procedures or determine that management has adjusted the financial statements so that the risk that the financial statements are materially misstated has been reduced to an appropriately low level.
+.15 The auditor should communicate accumulated misstatements to management on a timely basis to provide management with an opportunity to correct them.
+.16 If management has examined an account or a disclosure in response to misstatements detected by the auditor and has made corrections to the account or disclosure, the auditor should evaluate management's work to determine whether the corrections have been recorded properly and whether uncorrected misstatements remain.
+.17 Evaluation of the Effect of Uncorrected Misstatements. The auditor should evaluate whether uncorrected misstatements are material, individually or in combination with other misstatements. In making this evaluation, the auditor should evaluate the misstatements in relation to the specific accounts and disclosures involved and to the financial statements as a whole, taking into account relevant quantitative and qualitative factors. (See Appendix B.)
+Note: In interpreting the federal securities laws, the Supreme Court of the United States has held that a fact is material if there is "a substantial likelihood that the . . . fact would have been viewed by the reasonable investor as having significantly altered the 'total mix' of information made available." As the Supreme Court has noted, determinations of materiality require "delicate assessments of the inferences a 'reasonable shareholder' would draw from a given set of facts and the significance of those inferences to him. . . ."
+Note: As a result of the interaction of quantitative and qualitative considerations in materiality judgments, uncorrected misstatements of relatively small amounts could have a material effect on the financial statements. For example, an illegal payment of an otherwise immaterial amount could be material if there is a reasonable possibility that it could lead to a material contingent liability or a material loss of revenue. Also, a misstatement made intentionally could be material for qualitative reasons, even if relatively small in amount.
+Note: If the reevaluation of the established materiality level or levels, as set forth in AS 2105, results in a lower amount for the materiality level or levels, the auditor should take into account that lower materiality level or levels in the evaluation of uncorrected misstatements.
+.18 The auditor's evaluation of uncorrected misstatements, as described in paragraph .17 of this standard, should include evaluation of the effects of uncorrected misstatements detected in prior years and misstatements detected in the current year that relate to prior years.
+.19 The auditor cannot assume that an instance of error or fraud is an isolated occurrence. Therefore, the auditor should evaluate the nature and effects of the individual misstatements accumulated during the audit on the assessed risks of material misstatement. This evaluation is important in determining whether the risk assessments remain appropriate, as discussed in paragraph .36 of this standard.
+.20 Evaluating Whether Misstatements Might Be Indicative of Fraud. The auditor should evaluate whether identified misstatements might be indicative of fraud and, in turn, how they affect the auditor's evaluation of materiality and the related audit responses. As indicated in AS 2401, Consideration of Fraud in a Financial Statement Audit, fraud is an intentional act that results in material misstatement of the financial statements.
+.21 If the auditor believes that a misstatement is or might be intentional, and if the effect on the financial statements could be material or cannot be readily determined, the auditor should perform procedures to obtain additional audit evidence to determine whether fraud has occurred or is likely to have occurred and, if so, its effect on the financial statements and the auditor's report thereon.
+.22 For misstatements that the auditor believes are or might be intentional, the auditor should evaluate the implications on the integrity of management or employees and the possible effect on other aspects of the audit. If the misstatement involves higher-level management, it might be indicative of a more pervasive problem, such as an issue with the integrity of management, even if the amount of the misstatement is small. In such circumstances, the auditor should reevaluate the assessment of fraud risk and the effect of that assessment on (a) the nature, timing, and extent of the necessary tests of accounts or disclosures and (b) the assessment of the effectiveness of controls. The auditor also should evaluate whether the circumstances or conditions indicate possible collusion involving employees, management, or external parties and, if so, the effect of the collusion on the reliability of evidence obtained.
+.23 If the auditor becomes aware of information indicating that fraud or another illegal act has occurred or might have occurred, he or she also must determine his or her responsibilities under AS 2401.79-.82A, AS 2405, and Section 10A of the Securities Exchange Act of 1934, 15 U.S.C. § 78j-1.
+Evaluating the Qualitative Aspects of the Company's Accounting Practices
+.24 When evaluating whether the financial statements as a whole are free of material misstatement, the auditor should evaluate the qualitative aspects of the company's accounting practices, including potential bias in management's judgments about the amounts and disclosures in the financial statements.
+.25 The following are examples of forms of management bias:
+The selective correction of misstatements brought to management's attention during the audit (e.g., correcting misstatements that have the effect of increasing reported earnings but not correcting misstatements that have the effect of decreasing reported earnings).
+Note: To evaluate the potential effect of selective correction of misstatements, the auditor should obtain an understanding of the reasons that management decided not to correct misstatements communicated by the auditor in accordance with paragraph .15.
+The identification by management of additional adjusting entries that offset misstatements accumulated by the auditor. If such adjusting entries are identified, the auditor should perform procedures to determine why the underlying misstatements were not identified previously and evaluate the implications on the integrity of management and the auditor's risk assessments, including fraud risk assessments. The auditor also should perform additional procedures as necessary to address the risk of further undetected misstatement.
+Bias in the selection and application of accounting principles.
+Bias in accounting estimates.
+.26 If the auditor identifies bias in management's judgments about the amounts and disclosures in the financial statements, the auditor should evaluate whether the effect of that bias, together with the effect of uncorrected misstatements, results in material misstatement of the financial statements. Also, the auditor should evaluate whether the auditor's risk assessments, including, in particular, the assessment of fraud risks, and the related audit responses remain appropriate.
+.27 Evaluating Bias in Accounting Estimates. The auditor should evaluate whether the difference between estimates best supported by the audit evidence and estimates included in the financial statements, which are individually reasonable, indicate a possible bias on the part of the company's management. If each accounting estimate included in the financial statements was individually reasonable but the effect of the difference between each estimate and the estimate best supported by the audit evidence was to increase earnings or loss, the auditor should evaluate whether these circumstances indicate potential management bias in the estimates. Bias also can result from the cumulative effect of changes in multiple accounting estimates. If the estimates in the financial statements are grouped at one end of the range of reasonable estimates in the prior year and are grouped at the other end of the range of reasonable estimates in the current year, the auditor should evaluate whether management is using swings in estimates to achieve an expected or desired outcome, e.g., to offset higher or lower than expected earnings.
+Note: AS 2401.64-.65 establish requirements regarding performing a retrospective review of accounting estimates and evaluating the potential for fraud risks.
+Evaluating Conditions Relating to the Assessment of Fraud Risks
+.28 When evaluating the results of the audit, the auditor should evaluate whether the accumulated results of auditing procedures and other observations affect the assessment of the fraud risks made throughout the audit and whether the audit procedures need to be modified to respond to those risks. (See Appendix C.)
+.29 As part of this evaluation, the engagement partner should determine whether there has been appropriate communication with the other engagement team members throughout the audit regarding information or conditions that are indicative of fraud risks.
+Note: To accomplish this communication, the engagement partner might arrange another discussion among the engagement team members about fraud risks. (See AS 2110.49-.51.)
+Evaluating the Presentation of the Financial Statements, Including the Disclosures
+.30 The auditor must evaluate whether the financial statements are presented fairly, in all material respects, in conformity with the applicable financial reporting framework.
+Note: The applicable financial reporting framework provides the basis for the auditor’s judgment regarding the presentation of financial position, results of operations, cash flows, and disclosures in financial statements.
+Note: The auditor should look to the requirements of the U.S. Securities and Exchange Commission for the company under audit with respect to the accounting principles applicable to that company.
+.30A When evaluating whether the financial statements (including the accompanying notes) present fairly the financial position, results of operations, and cash flows, in all material respects, in conformity with the applicable financial reporting framework, the auditor should evaluate whether:
+The financial statements are informative of matters that may affect their use, understanding, and interpretation; and the information in the financial statements is presented and classified appropriately and in a manner that is not misleading;
+The accounting principles selected and applied by the company’s management are appropriate in the circumstances; and
+Company transactions and relevant events and conditions are appropriately recognized, measured, and disclosed in the financial statements.
+.31 As part of the evaluation of the presentation of the financial statements, the auditor should evaluate whether the financial statements contain the information essential for a fair presentation of the financial statements in conformity with the applicable financial reporting framework. Evaluation of the information disclosed in the financial statements includes consideration of the form, arrangement, and content of the financial statements (including the accompanying notes), encompassing matters such as the terminology used, the amount of detail given, the classification of items in the statements, and the bases of amounts set forth.
+Evaluating the Sufficiency and Appropriateness of Audit Evidence
+.32 AS 1101, Audit Risk, states:
+To form an appropriate basis for expressing an opinion on the financial statements, the auditor must plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement due to error or fraud. Reasonable assurance is obtained by reducing audit risk to an appropriately low level through applying due professional care, including obtaining sufficient appropriate audit evidence.
+.33 As part of evaluating audit results, the auditor must conclude on whether sufficient appropriate audit evidence has been obtained to support his or her opinion on the financial statements.
+.34 Factors that are relevant to the conclusion on whether sufficient appropriate audit evidence has been obtained include the following:
+The significance of uncorrected misstatements and the likelihood of their having a material effect, individually or in combination, on the financial statements, considering the possibility of further undetected misstatement (paragraphs .14 and .17-.19 of this standard).
+The results of audit procedures performed in the audit of financial statements, including whether the evidence obtained supports or contradicts management's assertions and whether such audit procedures identified specific instances of fraud (paragraphs .20-.23 and .28-.29 of this standard).
+The auditor's risk assessments (paragraph .36 of this standard).
+The results of audit procedures performed in the audit of internal control over financial reporting, if the audit is an integrated audit.
+The appropriateness (i.e., the relevance and reliability) of the audit evidence obtained.
+.35 If the auditor has not obtained sufficient appropriate audit evidence about a relevant assertion or has substantial doubt about a relevant assertion, the auditor should perform procedures to obtain further audit evidence to address the matter. If the auditor is unable to obtain sufficient appropriate audit evidence to have a reasonable basis to conclude about whether the financial statements as a whole are free of material misstatement, AS 3105 indicates that the auditor should express a qualified opinion or a disclaimer of opinion.
+.36 Evaluating the Appropriateness of Risk Assessments. As part of the evaluation of whether sufficient appropriate audit evidence has been obtained, the auditor should evaluate whether the assessments of the risks of material misstatement at the assertion level remain appropriate and whether the audit procedures need to be modified or additional procedures need to be performed as a result of any changes in the risk assessments. For example, the re-evaluation of the auditor's risk assessments could result in the identification of relevant assertions or significant risks that were not identified previously and for which the auditor should perform additional audit procedures.
+Note: AS 2110 establishes requirements on revising the auditor's risk assessment. AS 2301 discusses the auditor's responsibilities regarding the assessment of control risk and evaluation of control deficiencies in an audit of financial statements.
+Evaluating the Results of the Audit of Internal Control Over Financial Reporting
+.37 AS 2201, An Audit of Internal Control Over Financial Reporting That Is Integrated with An Audit of Financial Statements, indicates that the auditor should form an opinion on the effectiveness of internal control over financial reporting by evaluating evidence obtained from all sources, including the auditor's testing of controls, misstatements detected during the financial statement audit, and any identified control deficiencies. AS 2201 describes the auditor's responsibilities regarding evaluating the results of the audit, including evaluating the identified control deficiencies.
+Appendix A - Definitions
+.A1 For purposes of this standard, the terms listed below are defined as follows:
+.A2 Misstatement - A misstatement, if material individually or in combination with other misstatements, causes the financial statements not to be presented fairly in conformity with the applicable financial reporting framework. A misstatement may relate to a difference between the amount, classification, presentation, or disclosure of a reported financial statement item and the amount, classification, presentation, or disclosure that should be reported in conformity with the applicable financial reporting framework. Misstatements can arise from error (i.e., unintentional misstatement) or fraud.
+.A3 Uncorrected misstatements - Misstatements, other than those that are clearly trivial, that management has not corrected.
+Appendix B - Qualitative Factors Related to the Evaluation of the Materiality of Uncorrected Misstatements
+.B1 Paragraph .17 of this standard states:
+The auditor should evaluate whether uncorrected misstatements are material, individually or in combination with other misstatements. In making this evaluation, the auditor should evaluate the misstatements in relation to the specific accounts and disclosures involved and to the financial statements as a whole, taking into account relevant quantitative and qualitative factors.
+Note: In interpreting the federal securities laws, the Supreme Court of the United States has held that a fact is material if there is "a substantial likelihood that the . . . fact would have been viewed by the reasonable investor as having significantly altered the 'total mix' of information made available." As the Supreme Court has noted, determinations of materiality require "delicate assessments of the inferences a 'reasonable shareholder' would draw from a given set of facts and the significance of those inferences to him. . . ."
+Note: As a result of the interaction of quantitative and qualitative considerations in materiality judgments, uncorrected misstatements of relatively small amounts could have a material effect on the financial statements. For example, an illegal payment of an otherwise immaterial amount could be material if there is a reasonable possibility that it could lead to a material contingent liability or a material loss of revenue. Also, a misstatement made intentionally could be material for qualitative reasons, even if relatively small in amount.
+.B2 Qualitative factors to consider in the auditor's evaluation of the materiality of uncorrected misstatements, if relevant, include the following:
+The potential effect of the misstatement on trends, especially trends in profitability.
+A misstatement that changes a loss into income or vice versa.
+The effect of the misstatement on segment information, for example, the significance of the matter to a particular segment important to the future profitability of the company, the pervasiveness of the matter on the segment information, and the impact of the matter on trends in segment information, all in relation to the financial statements taken as a whole.
+The potential effect of the misstatement on the company's compliance with loan covenants, other contractual agreements, and regulatory provisions.
+The existence of statutory or regulatory reporting requirements that affect materiality thresholds.
+A misstatement that has the effect of increasing management's compensation, for example, by satisfying the requirements for the award of bonuses or other forms of incentive compensation.
+The sensitivity of the circumstances surrounding the misstatement, for example, the implications of misstatements involving fraud and possible illegal acts, violations of contractual provisions, and conflicts of interest.
+The significance of the financial statement element affected by the misstatement, for example, a misstatement affecting recurring earnings as contrasted to one involving a non-recurring charge or credit, such as an extraordinary item.
+The effects of misclassifications, for example, misclassification between operating and non-operating income or recurring and non-recurring income items.
+The significance of the misstatement or disclosures relative to known user needs, for example:
+The significance of earnings and earnings per share to public company investors.
+The magnifying effects of a misstatement on the calculation of purchase price in a transfer of interests (buy/sell agreement).
+The effect of misstatements of earnings when contrasted with expectations.
+The definitive character of the misstatement, for example, the precision of an error that is objectively determinable as contrasted with a misstatement that unavoidably involves a degree of subjectivity through estimation, allocation, or uncertainty.
+The motivation of management with respect to the misstatement, for example, (i) an indication of a possible pattern of bias by management when developing and accumulating accounting estimates or (ii) a misstatement precipitated by management's continued unwillingness to correct weaknesses in the financial reporting process.
+The existence of offsetting effects of individually significant but different misstatements.
+The likelihood that a misstatement that is currently immaterial may have a material effect in future periods because of a cumulative effect, for example, that builds over several periods.
+The cost of making the correction- it may not be cost-beneficial for the client to develop a system to calculate a basis to record the effect of an immaterial misstatement. On the other hand, if management appears to have developed a system to calculate an amount that represents an immaterial misstatement, it may reflect a motivation of management as noted in paragraph .B2l above.
+The risk that possible additional undetected misstatements would affect the auditor's evaluation.
+Appendix C - Matters That Might Affect the Assessment of Fraud Risks
+.C1 If the following matters are identified during the audit, the auditor should take into account these matters in the evaluation of the assessment of fraud risks, as discussed in paragraph .28 of this standard:
+Discrepancies in the accounting records, including:
+Transactions that are not recorded in a complete or timely manner or are improperly recorded as to amount, accounting period, classification, or company policy.
+Unsupported or unauthorized balances or transactions.
+Last-minute adjustments that significantly affect financial results.
+Evidence of employees' access to systems and records that is inconsistent with the access that is necessary to perform their authorized duties.
+Tips or complaints to the auditor about alleged fraud.
+Conflicting or missing evidence, including:
+Missing documents.
+Documents that appear to have been altered.
+Unavailability of other than photocopied or electronically transmitted documents when documents in original form are expected to exist.
+Significant unexplained items in reconciliations.
+Inconsistent, vague, or implausible responses from management or employees arising from inquiries or analytical procedures.
+Unusual discrepancies between the company's records and confirmation responses.
+Missing inventory or physical assets of significant magnitude.
+Unavailable or missing electronic evidence that is inconsistent with the company's record retention practices or policies.
+Inability to produce evidence of key systems development and program change testing and implementation activities for current year system changes and deployments.
+Unusual balance sheet changes or changes in trends or important financial statement ratios or relationships, e.g., receivables growing faster than revenues.
+Large numbers of credit entries and other adjustments made to accounts receivable records.
+Unexplained or inadequately explained differences between the accounts receivable subsidiary ledger and the general ledger control account, or between the customer statement and the accounts receivable subsidiary ledger.
+Missing or nonexistent cancelled checks in circumstances in which cancelled checks are ordinarily returned to the company with the bank statement.
+Fewer responses to confirmation requests than anticipated or a greater number of responses than anticipated.
+Problematic or unusual relationships between the auditor and management, including:
+Denial of access to records, facilities, certain employees, customers, vendors, or others from whom audit evidence might be sought, including:
+Unwillingness to facilitate auditor access to key electronic files for testing through the use of computer-assisted audit techniques.
+Denial of access to key information technology operations staff and facilities, including security, operations, and systems development.
+Undue time pressures imposed by management to resolve complex or contentious issues.
+Management pressure on engagement team members, particularly in connection with the auditor's critical assessment of audit evidence or in the resolution of potential disagreements with management.
+Unusual delays by management in providing requested information.
+Management's unwillingness to add or revise disclosures in the financial statements to make them more complete and transparent.
+Management's unwillingness to appropriately address significant deficiencies in internal control on a timely basis.
+Other matters, including:
+Objections by management to the auditor meeting privately with the audit committee.
+Accounting policies that appear inconsistent with industry practices that are widely recognized and prevalent.
+Frequent changes in accounting estimates that do not appear to result from changing circumstances.
+Tolerance of violations of the company's code of conduct.
+Footnotes (AS 2810 - Evaluating Audit Results):
+For purposes of this standard, the term "audit of financial statements" refers to the financial statement portion of the integrated audit and to the audit of financial statements only.
+Terms defined in Appendix A, Definitions, are set in boldface type the first time they appear.
+Paragraphs .46-.48 of AS 2110, Identifying and Assessing Risks of Material Misstatement, and paragraph .03 of AS 2305, Substantive Analytical Procedures.
+AS 2110.47 contains a requirement to perform analytical procedures relating to revenue as part of the risk assessment procedures.
+AS 2315.26.
+AS 2105.
+If the financial statements contain material misstatements, AS 3105, Departures from Unqualified Opinions and Other Reporting Circumstances, indicates that the auditor should issue a qualified or an adverse opinion on the financial statements. AS 3105.18 discusses situations in which the financial statements are materially affected by a departure from the applicable financial reporting framework.
+TSC Industries v. Northway, Inc., 426 U.S. 438, 449 (1976). See also Basic, Inc. v. Levinson, 485 U.S. 224 (1988).
+TSC Industries, 426 U.S. at 450
+Reference to the judgment of the auditor throughout this standard has the same meaning as “professional judgment” as described in AS 1000, General Responsibilities of the Auditor in Conducting an Audit.
+There is a reasonable possibility of an event, as used in this standard, when the likelihood of the event is either "reasonably possible" or "probable," as those terms are used in the FASB Accounting Standards Codification, Contingencies Topic, paragraph 450-20-25-1.
+AS 2405, Illegal Acts by Clients.
+AS 2105.11- .12.
+Misstatements include omission and presentation of inaccurate or incomplete disclosures.
+AS 2401.05.
+Paragraph .05d of AS 2301, The Auditor's Responses to the Risks of Material Misstatement.
+Paragraph .27 of this standard.
+Such auditing procedures include, but are not limited to, procedures in the overall review (paragraph .09 of this standard), the evaluation of identified misstatements (paragraphs .20-.23 of this standard), and the evaluation of the qualitative aspects of the company's accounting practices (paragraphs .24-.27 of this standard).
+The term “engagement team,” as used in this standard, has the same meaning as defined in Appendix A of AS 2101, Audit Planning.
+AS 2820, Evaluating Consistency of Financial Statements, establishes requirements regarding evaluating the consistency of the accounting principles used in financial statements.
+The concept of materiality is inherent in the auditor’s judgment. That concept involves qualitative as well as quantitative factors (see AS 2105).
+Regulation S-X Rule 4-01(a), 17 C.F.R. § 210.4-01(a), requires issuers to include in financial statements any further material information as may be necessary to make the required statements, in the light of the circumstances under which they were made, not misleading.
+See AS 3105.24- .27 for auditor reporting considerations related to inadequate disclosures.
+AS 1101.03.
+Paragraphs .07- .09 of AS 1105, Audit Evidence, discuss the relevance and reliability of audit evidence.
+AS 3105.05- .17 contains requirements regarding audit scope limitations.
+AS 2110.74.
+AS 2301.32- .34.
+AS 2201.62- .70 discuss evaluating identified control deficiencies, and AS 2201.71- .73 discuss forming an opinion on the effectiveness of internal control over financial reporting.
+Footnotes (Appendix A - Definitions):
+The auditor should look to the requirements of the Securities and Exchange Commission for the company under audit with respect to the accounting principles applicable to that company.
+Paragraph .02 of AS 2401, Consideration of Fraud in a Financial Statement Audit.
+Paragraph .10 of this standard states that, "[t]he auditor should accumulate misstatements identified during the audit, other than those that are clearly trivial."
+Footnotes (Appendix B - Qualitative Factors Related to the Evaluation of the Materiality of Uncorrected Misstatements):
+If the financial statements contain material misstatements, AS 3105, Departures from Unqualified Opinions and Other Reporting Circumstances, indicates that the auditor should issue a qualified or an adverse opinion on the financial statements. AS 3105.18 discusses situations in which the financial statements are materially affected by a departure from the applicable financial reporting framework.
+TSC Industries v. Northway, Inc., 426 U.S. 438, 449 (1976). See also Basic, Inc. v. Levinson, 485 U.S. 224 (1988).
+TSC Industries, 426 U.S. at 450.
+There is a reasonable possibility of an event, as used in this standard, when the likelihood of the event is either "reasonably possible" or "probable," as those terms are used in the FASB Accounting Standards Codification, Contingencies Topic, paragraph 450-20-25-1.
+AS 2405, Illegal Acts by Clients.
+Footnotes (Appendix C - Matters That Might Affect the Assessment of Fraud Risks):
+Paragraph .09 of AS 1105, Audit Evidence.
+Denial of access to information might constitute a limitation on the scope of the audit that requires the auditor to qualify or disclaim an opinion. (See AS 2201, An Audit of Internal Control Over Financial Reporting That Is Integrated with An Audit of Financial Statements, and AS 3105, Departures from Unqualified Opinions and Other Reporting Circumstances.)

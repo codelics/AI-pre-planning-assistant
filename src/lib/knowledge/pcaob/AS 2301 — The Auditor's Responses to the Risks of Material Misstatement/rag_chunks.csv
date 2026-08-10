@@ -1,0 +1,493 @@
+﻿id,paragraph,section,is_footnote,content
+fac38a837ab98a39,,AS 2301: The Auditor's Responses to the Risks of Material Misstatement,False,"Section: AS 2301: The Auditor's Responses to the Risks of Material Misstatement
+
+Adopting Release: Amendments: Guidance on AS 2301: Staff Audit Practice Alerts and"
+13c00e01f7010197,.01,Introduction,False,"Section: Introduction
+
+Paragraph: .01
+
+.01 This standard establishes requirements regarding designing and implementing appropriate responses to the risks of material misstatement."
+3d49e29bbd5146f5,.02,Objective,False,"Section: Objective
+
+Paragraph: .02
+
+.02 The objective of the auditor is to address the risks of material misstatement through appropriate overall audit responses and audit procedures."
+3dc369b7b193a214,.03,Responding to the Risks of Material Misstatement,False,"Section: Responding to the Risks of Material Misstatement
+
+Paragraph: .03
+
+.03 To meet the objective in the preceding paragraph, the auditor must design and implement audit responses that address the risks of material misstatement that are identified and assessed in accordance with AS 2110, Identifying and Assessing Risks of Material Misstatement."
+80fcc2f00b2d9627,.04,Responding to the Risks of Material Misstatement,False,"Section: Responding to the Risks of Material Misstatement
+
+Paragraph: .04
+
+.04 This standard discusses the following types of audit responses:
+Responses that have an overall effect on how the audit is conducted (""overall responses""), as described in paragraphs .05-.07; and
+Responses involving the nature, timing, and extent of the audit procedures to be performed, as described in paragraphs .08-.46."
+61a5139e6a36f807,.05,Overall Responses,False,"Section: Overall Responses
+
+Paragraph: .05
+
+.05 The auditor should design and implement overall responses to address the assessed risks of material misstatement as follows:
+Making appropriate assignments of significant engagement responsibilities. The knowledge, skill, and ability of engagement team members with significant engagement responsibilities should be commensurate with the assessed risks of material misstatement.
+Providing the extent of supervision that is appropriate for the circumstances, including, in particular, the assessed risks of material misstatement. (See paragraphs .05-.06 of AS 1201, Supervision of the Audit Engagement.)"
+383693000ba801bd,.05,Overall Responses,False,"Section: Overall Responses
+
+Paragraph: .05
+
+Incorporating elements of unpredictability in the selection of audit procedures to be performed. As part of the auditor's response to the assessed risks of material misstatement, including the assessed risks of material misstatement due to fraud (""fraud risks""), the auditor should incorporate an element of unpredictability in the selection of auditing procedures to be performed from year to year. Examples of ways to incorporate an element of unpredictability include:
+Performing audit procedures related to accounts, disclosures, and assertions that would not otherwise be tested based on their amount or the auditor's assessment of risk;
+Varying the timing of the audit procedures;
+Selecting items for testing that have lower amounts or are otherwise outside customary selection parameters;
+Performing audit procedures on an unannounced basis; and"
+1d34a328cab8ad82,.05,Overall Responses,False,"Section: Overall Responses
+
+Paragraph: .05
+
+Performing audit procedures on an unannounced basis; and
+In multi-location audits, varying the location or the nature, timing, and extent of audit procedures at related locations or business units from year to year.
+Evaluating the company's selection and application of significant accounting principles. The auditor should evaluate whether the company's selection and application of significant accounting principles, particularly those related to subjective measurements and complex transactions, are indicative of bias that could lead to material misstatement of the financial statements."
+54a83bdac58b0b25,.06,Overall Responses,False,"Section: Overall Responses
+
+Paragraph: .06
+
+.06 The auditor also should determine whether it is necessary to make pervasive changes to the nature, timing, or extent of audit procedures to adequately address the assessed risks of material misstatement. Examples of such pervasive changes include modifying the audit strategy to:
+Increase the substantive testing of the valuation of numerous significant accounts at year end because of significantly deteriorating market conditions, and
+Obtain more persuasive audit evidence from substantive procedures due to the identification of pervasive weaknesses in the company's control environment."
+ee5c20d3086d8f96,.07,Overall Responses,False,"Section: Overall Responses
+
+Paragraph: .07
+
+.07 Due professional care requires the auditor to exercise professional skepticism. Professional skepticism is an attitude that includes a questioning mind and a critical assessment of the appropriateness and sufficiency of audit evidence. The auditor's responses to the assessed risks of material misstatement, particularly fraud risks, should involve the application of professional skepticism in gathering and evaluating audit evidence"
+fd6e699aa2e0eddf,.07,Overall Responses,False,"Section: Overall Responses
+
+Paragraph: .07
+
+. Examples of the application of professional skepticism in response to the assessed fraud risks are (a) modifying the planned audit procedures to obtain more reliable evidence regarding relevant assertions and (b) obtaining sufficient appropriate evidence to corroborate management's explanations or representations concerning important matters, such as through third-party confirmation, use of a specialist engaged or employed by the auditor, or examination of documentation from independent sources."
+8fdc33aee384bfba,.08,"Responses Involving the Nature, Timing, and Extent of Audit Procedures",False,"Section: Responses Involving the Nature, Timing, and Extent of Audit Procedures
+
+Paragraph: .08
+
+.08 The auditor should design and perform audit procedures in a manner that addresses the assessed risks of material misstatement for each relevant assertion of each significant account and disclosure."
+4514185be80b9e01,.09,"Responses Involving the Nature, Timing, and Extent of Audit Procedures",False,"Section: Responses Involving the Nature, Timing, and Extent of Audit Procedures
+
+Paragraph: .09
+
+.09 In designing the audit procedures to be performed, the auditor should:
+Obtain more persuasive audit evidence the higher the auditor's assessment of risk;
+Take into account the types of potential misstatements that could result from the identified risks and the likelihood and magnitude of potential misstatement;
+In an integrated audit, design the testing of controls to accomplish the objectives of both audits simultaneously:
+To obtain sufficient evidence to support the auditor's control risk assessments for purposes of the audit of financial statements; and
+To obtain sufficient evidence to support the auditor's opinion on internal control over financial reporting as of year-end.
+Note: AS 2201 establishes requirements for tests of controls in the audit of internal control over financial reporting."
+d12c4457dc16d83d,.10,"Responses Involving the Nature, Timing, and Extent of Audit Procedures",False,"Section: Responses Involving the Nature, Timing, and Extent of Audit Procedures
+
+Paragraph: .10
+
+.10 The audit procedures performed in response to the assessed risks of material misstatement can be classified into two categories: (1) tests of controls and (2) substantive procedures. Paragraphs .16-.35 of this standard discuss tests of controls, and paragraphs .36-.46 and .48-.50 discuss substantive procedures.
+Note: Paragraphs .16-.17 of this standard discuss when tests of controls are necessary in a financial statement audit. Ordinarily, tests of controls are performed for relevant assertions for which the auditor chooses to rely on controls to modify his or her substantive procedures."
+c2f20aa770514066,.11,Responses to Significant Risks,False,"Section: Responses to Significant Risks
+
+Paragraph: .11
+
+.11 For significant risks, the auditor should perform substantive procedures, including tests of details, that are specifically responsive to the assessed risks.
+Note: AS 2110 discusses identification of significant risks and states that fraud risks are significant risks."
+e45c1604216b0536,.11A,Responses to Significant Risks,False,"Section: Responses to Significant Risks
+
+Paragraph: .11A
+
+.11A Responding to Risks Associated with Significant Unusual Transactions. AS 2110.71g indicates that one of the factors to be evaluated in determining significant risks is whether the risk involves significant unusual transactions. Also, AS 2401.66-67A establish requirements for performing procedures to respond to fraud risks regarding significant unusual transactions. Because significant unusual transactions can affect the risks of material misstatement due to error or fraud, the auditor should take into account the types of potential misstatements that could result from significant unusual transactions in designing and performing further audit procedures, including procedures performed pursuant to AS 2401.66-.67A."
+681c391deba4e029,.12,Responses to Fraud Risks,False,"Section: Responses to Fraud Risks
+
+Paragraph: .12
+
+.12 The audit procedures that are necessary to address the assessed fraud risks depend upon the types of risks and the relevant assertions that might be affected.
+Note: If the auditor identifies deficiencies in controls that are intended to address assessed fraud risks, the auditor should take into account those deficiencies when designing his or her response to those fraud risks.
+Note: AS 2201 establishes requirements for addressing assessed fraud risks in the audit of internal control over financial reporting."
+8bf1b46bb745350a,.13,Responses to Fraud Risks,False,"Section: Responses to Fraud Risks
+
+Paragraph: .13
+
+.13 Addressing Fraud Risks in the Audit of Financial Statements. In the audit of financial statements, the auditor should perform substantive procedures, including tests of details, that are specifically responsive to the assessed fraud risks. If the auditor selects certain controls intended to address the assessed fraud risks for testing in accordance with paragraphs .16-.17 of this standard, the auditor should perform tests of those controls."
+eb73372f1733f64b,.14,Responses to Fraud Risks,False,"Section: Responses to Fraud Risks
+
+Paragraph: .14
+
+.14 The following are examples of ways in which planned audit procedures may be modified to address assessed fraud risks:
+Changing the nature of audit procedures to obtain evidence that is more reliable or to obtain additional corroborative information;
+Changing the timing of audit procedures to be closer to the end of the period or to the points during the period in which fraudulent transactions are more likely to occur; and
+Changing the extent of the procedures applied to obtain more evidence, e.g., by increasing sample sizes or applying computer-assisted audit techniques to all of the items in an account.
+Note: AS 2401.54-.67 provide additional examples of responses to assessed fraud risks relating to fraudulent financial reporting (e.g., revenue recognition, inventory quantities, and management estimates) and misappropriation of assets in the audit of financial statements."
+02e3dc41da2b5ace,.15,Responses to Fraud Risks,False,"Section: Responses to Fraud Risks
+
+Paragraph: .15
+
+.15 Also, AS 2401 indicates that the auditor should perform audit procedures to specifically address the risk of management override of controls including:
+Examining journal entries and other adjustments for evidence of possible material misstatement due to fraud (AS 2401.58-.62);
+Reviewing accounting estimates for biases that could result in material misstatement due to fraud (AS 2401.63-.65); and
+Evaluating whether the business purpose for significant transactions that are outside the normal course of business for the company or that otherwise appear to be unusual due to their timing, size, or nature (""significant unusual transactions"") indicates that the transactions may have been entered into to engage in fraudulent financial reporting or conceal misappropriation of assets (AS 2401.66-.67A)."
+505a735a47ddca01,.16,Testing Controls in an Audit of Financial Statements,False,"Section: Testing Controls in an Audit of Financial Statements
+
+Paragraph: .16
+
+.16 Controls to be Tested. If the auditor plans to assess control risk at less than the maximum by relying on controls, and the nature, timing, and extent of planned substantive procedures are based on that lower assessment, the auditor must obtain evidence that the controls selected for testing are designed effectively and operated effectively during the entire period of reliance. However, the auditor is not required to assess control risk at less than the maximum for all relevant assertions and, for a variety of reasons, the auditor may choose not to do so."
+e409d6ccdf1655bd,.17,Testing Controls in an Audit of Financial Statements,False,"Section: Testing Controls in an Audit of Financial Statements
+
+Paragraph: .17
+
+.17 Also, tests of controls must be performed in the audit of financial statements for each relevant assertion for which substantive procedures alone cannot provide sufficient appropriate audit evidence and when necessary to support the auditor's reliance on the accuracy and completeness of financial information used in performing other audit procedures."
+d359288709bbbe63,.17,Testing Controls in an Audit of Financial Statements,False,"Section: Testing Controls in an Audit of Financial Statements
+
+Paragraph: .17
+
+Note: When a significant amount of information supporting one or more relevant assertions is electronically initiated, recorded, processed, or reported, it might be impossible to design effective substantive tests that, by themselves, would provide sufficient appropriate evidence regarding the assertions. For such assertions, significant audit evidence may be available only in electronic form. In such cases, the sufficiency and appropriateness of the audit evidence usually depend on the effectiveness of controls over their accuracy and completeness. Furthermore, the potential for improper initiation or alteration of information to occur and not be detected may be greater if information is initiated, recorded, processed, or reported only in electronic form and appropriate controls are not operating effectively."
+ebc42d17a1cfef01,.17,Testing Controls in an Audit of Financial Statements,False,"Section: Testing Controls in an Audit of Financial Statements
+
+Paragraph: .17
+
+Note: For certain accounting estimates involving complex models or processes, it might be impossible to design effective substantive tests that, by themselves, would provide sufficient appropriate evidence regarding the assertions."
+d14214277119d13f,.18,Testing Controls in an Audit of Financial Statements,False,"Section: Testing Controls in an Audit of Financial Statements
+
+Paragraph: .18
+
+.18 Evidence about the Effectiveness of Controls in the Audit of Financial Statements. In designing and performing tests of controls for the audit of financial statements, the evidence necessary to support the auditor's control risk assessment depends on the degree of reliance the auditor plans to place on the effectiveness of a control. The auditor should obtain more persuasive audit evidence from tests of controls the greater the reliance the auditor places on the effectiveness of a control. The auditor also should obtain more persuasive evidence about the effectiveness of controls for each relevant assertion for which the audit approach consists primarily of tests of controls, including situations in which substantive procedures alone cannot provide sufficient appropriate audit evidence."
+1e5fe2b4f24b3b33,.19,Testing Design Effectiveness,False,"Section: Testing Design Effectiveness
+
+Paragraph: .19
+
+.19 The auditor should test the design effectiveness of the controls selected for testing by determining whether the company's controls, if they are operated as prescribed by persons possessing the necessary authority and competence to perform the control effectively, satisfy the company's control objectives and can effectively prevent or detect error or fraud that could result in material misstatements in the financial statements."
+a43e13f7554929b6,.19,Testing Design Effectiveness,False,"Section: Testing Design Effectiveness
+
+Paragraph: .19
+
+Note: A smaller, less complex company might achieve its control objectives in a different manner from a larger, more complex organization. For example, a smaller, less complex company might have fewer employees in the accounting function, limiting opportunities to segregate duties and leading the company to implement alternative controls to achieve its control objectives. In such circumstances, the auditor should evaluate whether those alternative controls are effective."
+7df9b902627fa3ca,.20,Testing Design Effectiveness,False,"Section: Testing Design Effectiveness
+
+Paragraph: .20
+
+.20 Procedures the auditor performs to test design effectiveness include a mix of inquiry of appropriate personnel, observation of the company's operations, and inspection of relevant documentation. Walkthroughs that include these procedures ordinarily are sufficient to evaluate design effectiveness."
+3b221fbc229038d6,.21,Testing Operating Effectiveness,False,"Section: Testing Operating Effectiveness
+
+Paragraph: .21
+
+.21 The auditor should test the operating effectiveness of a control selected for testing by determining whether the control is operating as designed and whether the person performing the control possesses the necessary authority and competence to perform the control effectively."
+5e07c5832904faf5,.22,Testing Operating Effectiveness,False,"Section: Testing Operating Effectiveness
+
+Paragraph: .22
+
+.22 Procedures the auditor performs to test operating effectiveness include a mix of inquiry of appropriate personnel, observation of the company's operations, inspection of relevant documentation, and re-performance of the control."
+f182986b263db51d,.23,Obtaining Evidence from Tests of Controls,False,"Section: Obtaining Evidence from Tests of Controls
+
+Paragraph: .23
+
+.23 The evidence provided by the auditor's tests of the effectiveness of controls depends upon the mix of the nature, timing, and extent of the auditor's procedures. Further, for an individual control, different combinations of the nature, timing, and extent of testing might provide sufficient evidence in relation to the degree of reliance in an audit of financial statements.
+Note: To obtain evidence about whether a control is effective, the control must be tested directly; the effectiveness of a control cannot be inferred from the absence of misstatements detected by substantive procedures."
+37a3d72fb2ffa313,.24,Nature of Tests of Controls,False,"Section: Nature of Tests of Controls
+
+Paragraph: .24
+
+.24 Some types of tests, by their nature, produce greater evidence of the effectiveness of controls than other tests. The following tests that the auditor might perform are presented in the order of the evidence that they ordinarily would produce, from least to most: inquiry, observation, inspection of relevant documentation, and re-performance of a control.
+Note: Inquiry alone does not provide sufficient evidence to support a conclusion about the effectiveness of a control."
+3cfc11e4ac811064,.25,Nature of Tests of Controls,False,"Section: Nature of Tests of Controls
+
+Paragraph: .25
+
+.25 The nature of the tests of controls that will provide appropriate evidence depends, to a large degree, on the nature of the control to be tested, including whether the operation of the control results in documentary evidence of its operation. Documentary evidence of the operation of some controls, such as management's philosophy and operating style, might not exist.
+Note: A smaller, less complex company or unit might have less formal documentation regarding the operation of its controls. In those situations, testing controls through inquiry combined with other procedures, such as observation of activities, inspection of less formal documentation, or re-performance of certain controls, might provide sufficient evidence about whether the control is effective."
+5ecc85d835bdd9f3,.26,Extent of Tests of Controls,False,"Section: Extent of Tests of Controls
+
+Paragraph: .26
+
+.26 The more extensively a control is tested, the greater the evidence obtained from that test."
+171aafef1283b018,.27,Extent of Tests of Controls,False,"Section: Extent of Tests of Controls
+
+Paragraph: .27
+
+.27 Matters that could affect the necessary extent of testing of a control in relation to the degree of reliance on a control include the following:
+The frequency of the performance of the control by the company during the audit period;
+The length of time during the audit period that the auditor is relying on the operating effectiveness of the control;
+The expected rate of deviation from a control;
+The relevance and reliability of the audit evidence to be obtained regarding the operating effectiveness of the control;
+The extent to which audit evidence is obtained from tests of other controls related to the assertion;
+The nature of the control, including, in particular, whether it is a manual control or an automated control; and
+For an automated control, the effectiveness of relevant information technology general controls."
+328c166c12616ba6,.27,Extent of Tests of Controls,False,"Section: Extent of Tests of Controls
+
+Paragraph: .27
+
+For an automated control, the effectiveness of relevant information technology general controls.
+Note: AS 2315, Audit Sampling, establishes requirements regarding the use of sampling in tests of controls."
+42eff48849afb235,.28,Timing of Tests of Controls,False,"Section: Timing of Tests of Controls
+
+Paragraph: .28
+
+.28 The timing of tests of controls relates to when the evidence about the operating effectiveness of the controls is obtained and the period of time to which it applies. Paragraph .16 of this standard indicates that the auditor must obtain evidence that the controls selected for testing are designed effectively and operated effectively during the entire period of reliance."
+c4f83e186498ec3e,.29,Timing of Tests of Controls,False,"Section: Timing of Tests of Controls
+
+Paragraph: .29
+
+.29 Using Audit Evidence Obtained during an Interim Period. When the auditor obtains evidence about the operating effectiveness of controls as of or through an interim date, he or she should determine what additional evidence is necessary concerning the operation of the controls for the remaining period of reliance."
+861bc2a31b354e5b,.30,Timing of Tests of Controls,False,"Section: Timing of Tests of Controls
+
+Paragraph: .30
+
+.30 The additional evidence that is necessary to update the results of testing from an interim date through the remaining period of reliance depends on the following factors:
+The possibility that there have been any significant changes in internal control over financial reporting subsequent to the interim date;
+Note: If there have been significant changes to the control since the interim date, the auditor should obtain evidence about the effectiveness of the new or modified control;
+The inherent risk associated with the related account(s) or assertion(s);
+The specific control tested prior to year end, including the nature of the control and the risk that the control is no longer effective during the remaining period, and the results of the tests of the control;
+The planned degree of reliance on the control;
+The sufficiency of the evidence of effectiveness obtained at an interim date; and"
+4eb05c7c99dcb44f,.30,Timing of Tests of Controls,False,"Section: Timing of Tests of Controls
+
+Paragraph: .30
+
+The planned degree of reliance on the control;
+The sufficiency of the evidence of effectiveness obtained at an interim date; and
+The length of the remaining period."
+4d2e38621d1e5c30,.31,Timing of Tests of Controls,False,"Section: Timing of Tests of Controls
+
+Paragraph: .31
+
+.31 Using Audit Evidence Obtained in Past Audits. For audits of financial statements, the auditor should obtain evidence during the current year audit about the design and operating effectiveness of controls upon which the auditor relies. When controls on which the auditor plans to rely have been tested in past audits and the auditor plans to use evidence about the effectiveness of those controls that was obtained in prior years, the auditor should take into account the following factors to determine the evidence needed during the current year audit to support the auditor's control risk assessments:
+The nature and materiality of misstatements that the control is intended to prevent or detect;
+The inherent risk associated with the related account(s) or assertion(s);"
+66f9885e273a6555,.31,Timing of Tests of Controls,False,"Section: Timing of Tests of Controls
+
+Paragraph: .31
+
+The inherent risk associated with the related account(s) or assertion(s);
+Whether there have been changes in the volume or nature of transactions that might adversely affect control design or operating effectiveness;
+Whether the account has a history of errors;
+The effectiveness of entity-level controls that the auditor has tested, especially controls that monitor other controls;
+The nature of the controls and the frequency with which they operate;
+The degree to which the control relies on the effectiveness of other controls (e.g., the control environment or information technology general controls);
+The competence of the personnel who perform the control or monitor its performance and whether there have been changes in key personnel who perform the control or monitor its performance;"
+32060b792936a175,.31,Timing of Tests of Controls,False,"Section: Timing of Tests of Controls
+
+Paragraph: .31
+
+Whether the control relies on performance by an individual or is automated (i.e., an automated control would generally be expected to be lower risk if relevant information technology general controls are effective);
+The complexity of the control and the significance of the judgments that must be made in connection with its operation;
+The planned degree of reliance on the control;
+The nature, timing, and extent of procedures performed in past audits;
+The results of the previous years' testing of the control;
+Whether there have been changes in the control or the process in which it operates since the previous audit; and
+For integrated audits, the evidence regarding the effectiveness of the controls obtained during the audit of internal control."
+3f0eaa149e520343,.32,Assessing Control Risk,False,"Section: Assessing Control Risk
+
+Paragraph: .32
+
+.32 The auditor should assess control risk for relevant assertions by evaluating the evidence obtained from all sources, including the auditor's testing of controls for the audit of internal control and the audit of financial statements, misstatements detected during the financial statement audit, and any identified control deficiencies."
+599066206a2c7170,.33,Assessing Control Risk,False,"Section: Assessing Control Risk
+
+Paragraph: .33
+
+.33 Control risk should be assessed at the maximum level for relevant assertions (1) for which controls necessary to sufficiently address the assessed risk of material misstatement in those assertions are missing or ineffective or (2) when the auditor has not obtained sufficient appropriate evidence to support a control risk assessment below the maximum level."
+a34991b68ccae474,.34,Assessing Control Risk,False,"Section: Assessing Control Risk
+
+Paragraph: .34
+
+.34 When deficiencies affecting the controls on which the auditor intends to rely are detected, the auditor should evaluate the severity of the deficiencies and the effect on the auditor's control risk assessments. If the auditor plans to rely on controls relating to an assertion but the controls that the auditor tests are ineffective because of control deficiencies, the auditor should:
+Perform tests of other controls related to the same assertion as the ineffective controls, or
+Revise the control risk assessment and modify the planned substantive procedures as necessary in light of the increased assessment of risk."
+a31b1b0ed26a931a,.34,Assessing Control Risk,False,"Section: Assessing Control Risk
+
+Paragraph: .34
+
+Revise the control risk assessment and modify the planned substantive procedures as necessary in light of the increased assessment of risk.
+Note: AS 2201 establishes requirements for evaluating the severity of a control deficiency and communicating identified control deficiencies to management and the audit committee in an integrated audit. AS 1305, Communications About Control Deficiencies in an Audit of Financial Statements, establishes requirements for communicating significant deficiencies and material weaknesses in an audit of financial statements only."
+2593e6fbae1791df,.35,Testing Controls in an Audit of Internal Control,False,"Section: Testing Controls in an Audit of Internal Control
+
+Paragraph: .35
+
+.35 AS 2201 states that the objective of the tests of controls in an audit of internal control is to obtain evidence about the effectiveness of controls to support the auditor's opinion on the company's internal control over financial reporting. The auditor's opinion relates to the effectiveness of the company's internal control over financial reporting as of a point in time and taken as a whole. AS 2201 establishes requirements regarding the selection of controls to be tested and the necessary nature, timing, and extent of tests of controls in an audit of internal control over financial reporting."
+962346b17fa964c4,.36,Substantive Procedures,False,"Section: Substantive Procedures
+
+Paragraph: .36
+
+.36 The auditor should perform substantive procedures for each relevant assertion of each significant account and disclosure, regardless of the assessed level of control risk.
+Note: Performing substantive procedures for the relevant assertions of significant accounts and disclosures involves testing whether the significant accounts and disclosures are in conformity with the applicable financial reporting framework."
+7c90fcb47da968a2,.37,Substantive Procedures,False,"Section: Substantive Procedures
+
+Paragraph: .37
+
+.37 As the assessed risk of material misstatement increases, the evidence from substantive procedures that the auditor should obtain also increases. The evidence provided by the auditor's substantive procedures depends upon the mix of the nature, timing, and extent of those procedures. Further, for an individual assertion, different combinations of the nature, timing, and extent of testing might provide sufficient appropriate evidence to respond to the assessed risk of material misstatement."
+96936c7568d61506,.38,Substantive Procedures,False,"Section: Substantive Procedures
+
+Paragraph: .38
+
+.38 Internal control over financial reporting has inherent limitations, which, in turn, can affect the evidence that is needed from substantive procedures. For example, more evidence from substantive procedures ordinarily is needed for relevant assertions that have a higher susceptibility to management override or to lapses in judgment or breakdowns resulting from human failures."
+56fa55232723d636,.39,Nature of Substantive Procedures,False,"Section: Nature of Substantive Procedures
+
+Paragraph: .39
+
+.39 Substantive procedures generally provide persuasive evidence when they are designed and performed to obtain evidence that is relevant and reliable. Also, some types of substantive procedures, by their nature, produce more persuasive evidence than others. Inquiry alone does not provide sufficient appropriate evidence to support a conclusion about a relevant assertion.
+Note: AS 1105 discusses certain types of substantive procedures and the relevance and reliability of audit evidence."
+58a1394a9eb6e07d,.40,Nature of Substantive Procedures,False,"Section: Nature of Substantive Procedures
+
+Paragraph: .40
+
+.40 Taking into account the types of potential misstatements in the relevant assertions that could result from identified risks, as required by paragraph .09b., can help the auditor determine the types and combination of substantive audit procedures that are necessary to detect material misstatements in the respective assertions."
+b616ce6a6d365fe5,.41,Nature of Substantive Procedures,False,"Section: Nature of Substantive Procedures
+
+Paragraph: .41
+
+.41 Substantive Procedures Related to the Period-end Financial Reporting Process. The auditor's substantive procedures must include the following audit procedures related to the period-end financial reporting process:
+Reconciling the financial statements with the underlying accounting records; and
+Examining material adjustments made during the course of preparing the financial statements.
+Note: AS 2401.58-.62 establish requirements for examining journal entries and other adjustments for evidence of possible material misstatement due to fraud."
+4aab2e547a8b52ac,.42,Extent of Substantive Procedures,False,"Section: Extent of Substantive Procedures
+
+Paragraph: .42
+
+.42 The more extensively a substantive procedure is performed, the greater the evidence obtained from the procedure. The necessary extent of a substantive audit procedure depends on the materiality of the account or disclosure, the assessed risk of material misstatement, and the necessary degree of assurance from the procedure. However, increasing the extent of an audit procedure cannot adequately address an assessed risk of material misstatement unless the evidence to be obtained from the procedure is reliable and relevant."
+5386f2bf6582a0e7,.43,Timing of Substantive Procedures,False,"Section: Timing of Substantive Procedures
+
+Paragraph: .43
+
+.43 Performing certain substantive procedures at interim dates may permit early consideration of matters affecting the year-end financial statements, e.g., testing material transactions involving higher risks of misstatement. However, performing substantive procedures at an interim date without performing procedures at a later date increases the risk that a material misstatement could exist in the year-end financial statements that would not be detected by the auditor. This risk increases as the period between the interim date and year end increases."
+df9eb78a15691550,.44,Timing of Substantive Procedures,False,"Section: Timing of Substantive Procedures
+
+Paragraph: .44
+
+.44 In determining whether it is appropriate to perform substantive procedures at an interim date, the auditor should take into account the following:
+The assessed risk of material misstatement, including:
+The auditor's assessment of control risk, as discussed in paragraphs .32-.34;
+The existence of conditions or circumstances, if any, that create incentives or pressures on management to misstate the financial statements between the interim test date and the end of the period covered by the financial statements;
+The effects of known or expected changes in the company, its environment, or its internal control over financial reporting during the remaining period;
+The nature of the substantive procedures;
+The nature of the account or disclosure and relevant assertion; and
+The ability of the auditor to perform the necessary audit procedures to cover the remaining period."
+8544d0410799be1c,.45,Timing of Substantive Procedures,False,"Section: Timing of Substantive Procedures
+
+Paragraph: .45
+
+.45 When substantive procedures are performed at an interim date, the auditor should cover the remaining period by performing substantive procedures, or substantive procedures combined with tests of controls, that provide a reasonable basis for extending the audit conclusions from the interim date to the period end. Such procedures should include (a) comparing relevant information about the account balance at the interim date with comparable information at the end of the period to identify amounts that appear unusual and investigating such amounts and (b) performing audit procedures to test the remaining period."
+c9e8986692da3812,.46,Timing of Substantive Procedures,False,"Section: Timing of Substantive Procedures
+
+Paragraph: .46
+
+.46 If the auditor obtains evidence that contradicts the evidence on which the original risk assessments were based, including evidence of misstatements that he or she did not expect, the auditor should revise the related risk assessments and modify the planned nature, timing, or extent of substantive procedures covering the remaining period as necessary. Examples of such modifications include extending or repeating at the period end the procedures performed at the interim date."
+e2945d0f525ca3ae,.47,Dual-purpose Tests,False,"Section: Dual-purpose Tests
+
+Paragraph: .47
+
+.47 In some situations, the auditor might perform a substantive test of a transaction concurrently with a test of a control relevant to that transaction (a ""dual-purpose test""). In those situations, the auditor should design the dual-purpose test to achieve the objectives of both the test of the control and the substantive test. Also, when performing a dual-purpose test, the auditor should evaluate the results of the test in forming conclusions about both the assertion and the effectiveness of the control being tested."
+8ac16ffa2f4e96b8,.48,Tests of Details,False,"Section: Tests of Details
+
+Paragraph: .48
+
+.48 A test of details involves performing audit procedures with respect to items included in an account or disclosure (e.g., the date, amount, or contractual terms of a transaction). When performing a test of details, the auditor should apply audit procedures that are appropriate to the particular audit objectives to each item selected for testing."
+f0d7e0ce49dc9fdf,.49,Tests of Details,False,"Section: Tests of Details
+
+Paragraph: .49
+
+.49 When performing a test of details, the auditor may identify items that require further investigation. Audit procedures that the auditor performs to investigate the identified items are part of the auditor’s response to risks of material misstatement. The auditor determines the nature, timing, and extent of such procedures in accordance with PCAOB standards. The auditor’s investigation of the identified items should include determining whether these items individually or in the aggregate indicate (i) misstatements that should be evaluated in accordance with AS 2810, Evaluating Audit Results, or (ii) deficiencies in the company’s internal control over financial reporting."
+94dd21f02f454687,.50,Tests of Details,False,"Section: Tests of Details
+
+Paragraph: .50
+
+.50 When the auditor selects specific items within an account or disclosure for testing, the auditor should determine whether there is a reasonable possibility that remaining items within the account or disclosure include a misstatement that, individually or when aggregated with others, would have a material effect on the financial statements. If the auditor determines that there is a reasonable possibility of such a risk of material misstatement in the items not selected for testing, the auditor should perform substantive procedures that address the assessed risk."
+e3e3889e70f3f2f9,.A1,Appendix A - Definitions,False,"Section: Appendix A - Definitions
+
+Paragraph: .A1
+
+.A1 For purposes of this standard, the terms listed below are defined as follows:"
+d824ead8497980aa,.A2,Appendix A - Definitions,False,"Section: Appendix A - Definitions
+
+Paragraph: .A2
+
+.A2 Dual-purpose test - Substantive test of a transaction and a test of a control relevant to that transaction that are performed concurrently, e.g., a substantive test of sales transactions performed concurrently with a test of controls over those transactions."
+e5b7311b0ef75c21,.A3,Appendix A - Definitions,False,"Section: Appendix A - Definitions
+
+Paragraph: .A3
+
+.A3 Period of reliance - The period being covered by the company's financial statements, or the portion of that period, for which the auditor plans to rely on controls in order to modify the nature, timing, and extent of planned substantive procedures."
+128e26cdcd51fa33,,Footnotes,True,"Section: Footnotes
+
+The term “engagement team,” as used in this standard, has the same meaning as defined in Appendix A of AS 2101, Audit Planning."
+10657784a7778e20,,Footnotes,True,"Section: Footnotes
+
+[Footnote deleted.]"
+a315cb41607cfa1a,,Footnotes,True,"Section: Footnotes
+
+For integrated audits, paragraphs .61 and .B13 of AS 2201, An Audit of Internal Control Over Financial Reporting That Is Integrated with An Audit of Financial Statements, establish requirements for introducing unpredictability in testing of controls from year to year and in multi-location audits."
+d860905f39537fd0,,Footnotes,True,"Section: Footnotes
+
+AS 2110.12-.13 discuss the auditor’s responsibilities regarding obtaining an understanding of the company’s selection and application of accounting principles. See also paragraphs .66-.67A of AS 2401, Consideration of Fraud in a Financial Statement Audit, and paragraphs .30-.31 of AS 2810, Evaluating Audit Results."
+4909f37b95cb949a,,Footnotes,True,"Section: Footnotes
+
+See paragraphs .09 and .11 of AS 1000, General Responsibilities of the Auditor in Conducting an Audit, for a discussion of due professional care and professional skepticism."
+cc210173b6f653da,,Footnotes,True,"Section: Footnotes
+
+AS 2401.13."
+632da2450c27049b,,Footnotes,True,"Section: Footnotes
+
+Refer to AS 1210, Using the Work of an Auditor-Engaged Specialist, and Appendix C of AS 1201, which establish requirements for an auditor using the work of an auditor-engaged specialist and an auditor-employed specialist, respectively, in performing an audit of the financial statements."
+965f4ba567880d3d,,Footnotes,True,"Section: Footnotes
+
+For example, potential misstatements regarding disclosures include omission of required disclosures or presentation of inaccurate or incomplete disclosures."
+838bd6db1a12c983,,Footnotes,True,"Section: Footnotes
+
+See paragraph .07b of AS 1101, Audit Risk, for a definition of control risk."
+3446567eaa1b9cf9,,Footnotes,True,"Section: Footnotes
+
+For purposes of this standard, the term ""audit of financial statements"" refers to the financial statement portion of the integrated audit and to the audit of financial statements only."
+27bf72ad16c78d39,,Footnotes,True,"Section: Footnotes
+
+Substantive procedures consist of (a) tests of details of accounts and disclosures and (b) substantive analytical procedures."
+4c7908f09bfbb819,,Footnotes,True,"Section: Footnotes
+
+See AS 2110.71 for factors that the auditor should evaluate in determining which risks are significant risks."
+bd7120cf70b8c0a0,,Footnotes,True,"Section: Footnotes
+
+AS 2201.14-.15."
+59ed4944ba43f04e,,Footnotes,True,"Section: Footnotes
+
+Reliance on controls that is supported by sufficient and appropriate audit evidence allows the auditor to assess control risk at less than the maximum, which results in a lower assessed risk of material misstatement. In turn, this allows the auditor to modify the nature, timing, and extent of planned substantive procedures."
+5c48451a51616132,,Footnotes,True,"Section: Footnotes
+
+Terms defined in Appendix A, Definitions, are set in boldface type the first time they appear."
+1628ee2cd8709457,,Footnotes,True,"Section: Footnotes
+
+Paragraph .10 of AS 1105, Audit Evidence, and paragraph .16 of AS 2305, Substantive Analytical Procedures."
+41336c530db1b6f2,,Footnotes,True,"Section: Footnotes
+
+AS 2110.37-.38 discuss performing a walkthrough."
+84802622a8f36b77,,Footnotes,True,"Section: Footnotes
+
+The auditor also may use a benchmarking strategy, when appropriate, for automated application controls in subsequent years' audits. Benchmarking is described further beginning at AS 2201.B28."
+a84d1dfcec81c716,,Footnotes,True,"Section: Footnotes
+
+AS 2201.B1."
+ce45ea72deadecac,,Footnotes,True,"Section: Footnotes
+
+AS 2201.A5."
+957dbf9127f5daf6,,Footnotes,True,"Section: Footnotes
+
+See, e.g., AS 2501, Auditing Accounting Estimates, Including Fair Value Measurements, which discusses the auditor's responsibility to obtain sufficient appropriate evidence to determine whether accounting estimates in significant accounts and disclosures are properly accounted for and disclosed in the financial statements."
+49c1bec439c1792e,,Footnotes,True,"Section: Footnotes
+
+AS 2315.44 discusses applying audit sampling in dual-purpose tests."
+32182de0d6d1c9f0,,Footnotes,True,"Section: Footnotes
+
+AS 1105 describes the alternative means of selecting items for testing: selecting all items, selecting specific items, and audit sampling. See AS 1105.22-.28."
+eb2c8a7222ba812b,,Footnotes,True,"Section: Footnotes
+
+For example, an auditor may identify balances or transactions that contain a certain characteristic or that are valued outside of a range."
+82181e5a65aa5bdc,,Footnotes,True,"Section: Footnotes
+
+See, e.g., AS 2315, which describes the auditor’s responsibilities for evaluating sampling results when tests of details involve audit sampling, and paragraph .50 of this standard when tests of details involve specific items selected for testing."
+9685fc2e8307a81e,,Footnotes,True,"Section: Footnotes
+
+In an integrated audit of financial statements and internal control over financial reporting, the auditor should perform the evaluation in accordance with AS 2201. In an audit of financial statements only, the auditor should follow the direction of AS 2201.62-.70, as stated in AS 1305.03."
+6f413a3cdee717a7,,Footnotes,True,"Section: Footnotes
+
+See AS 1105.25-.27."
+a60ab80655b66fb0,,Footnotes,True,"Section: Footnotes
+
+See AS 2110."
+332d598bb88fc0a5,,Footnotes,True,"Section: Footnotes
+
+See paragraphs .08 and .36 of this standard."

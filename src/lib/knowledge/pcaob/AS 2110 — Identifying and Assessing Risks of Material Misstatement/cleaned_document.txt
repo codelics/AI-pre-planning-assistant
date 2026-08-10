@@ -1,0 +1,355 @@
+AS 2110: Identifying and Assessing Risks of Material Misstatement (effective on 12/15/2026)
+The following amended standard will be effective on December 15, 2026. See Appendix 5 of ; see also .
+View the standard effective before December 15, 2026.
+The gray boxes highlight amended portions of the standard.
+Adopting Release:
+Amendments:
+Guidance on AS 2110: Staff Audit Practice Alerts and and
+Summary Table of ContentsExpand Content
+Introduction
+.01 This standard establishes requirements regarding the process of identifying and assessing risks of material misstatement of the financial statements.
+.02 Paragraphs .04-.58 of this standard discuss the auditor's responsibilities for performing risk assessment procedures. Paragraphs .59-.73 of this standard discuss identifying and assessing the risks of material misstatement using information obtained from performing risk assessment procedures.
+Objective
+.03 The objective of the auditor is to identify and appropriately assess the risks of material misstatement, thereby providing a basis for designing and implementing responses to the risks of material misstatement.
+Performing Risk Assessment Procedures
+.04 The auditor should perform risk assessment procedures that are sufficient to provide a reasonable basis for identifying and assessing the risks of material misstatement, whether due to error or fraud, and designing further audit procedures.
+.05 Risks of material misstatement can arise from a variety of sources, including external factors, such as conditions in the company’s industry and environment, and company-specific factors, such as the nature of the company, its activities, and internal control over financial reporting. For example, external or company-specific factors can affect the judgments involved in determining accounting estimates or create pressures to manipulate the financial statements to achieve certain financial targets. Also, risks of material misstatement may relate to, e.g., personnel who lack the necessary financial reporting competencies, information systems that fail to accurately capture business transactions, or financial reporting processes that are not adequately aligned with the requirements in the applicable financial reporting framework. Thus, the audit procedures that are necessary to identify and appropriately assess the risks of material misstatement include consideration of both external factors and company-specific factors. This standard discusses the following risk assessment procedures:
+Obtaining an understanding of the company and its environment (paragraphs .07-.17);
+Obtaining an understanding of internal control over financial reporting (paragraphs .18-.40);
+Considering information from the acceptance and continuance of engagements evaluation, audit planning activities, past audits, and other engagements performed for the company (paragraphs .41-.45);
+Performing analytical procedures (paragraphs .46-.48);
+Conducting a discussion among engagement team members regarding the risks of material misstatement (paragraphs .49- .53); and
+Inquiring of the audit committee, management, and others within the company about the risks of material misstatement (paragraphs .54-.58).
+Note: This standard describes an approach to identifying and assessing risks of material misstatement that begins at the financial statement level and with the auditor's overall understanding of the company and its environment and works down to the significant accounts and disclosures and their relevant assertions.
+.06 In an integrated audit, the risks of material misstatement of the financial statements are the same for both the audit of internal control over financial reporting and the audit of financial statements. The auditor's risk assessment procedures should apply to both the audit of internal control over financial reporting and the audit of financial statements.
+Obtaining an Understanding of the Company and Its Environment
+.07 The auditor should obtain an understanding of the company and its environment ("understanding of the company") to understand the events, conditions, and company activities that might reasonably be expected to have a significant effect on the risks of material misstatement. Obtaining an understanding of the company includes understanding:
+Relevant industry, regulatory, and other external factors;
+The nature of the company;
+The company's selection and application of accounting principles, including related disclosures;
+The company's objectives and strategies and those related business risks that might reasonably be expected to result in risks of material misstatement; and
+The company's measurement and analysis of its financial performance.
+.08 In obtaining an understanding of the company, the auditor should evaluate whether significant changes in the company from prior periods, including changes in its internal control over financial reporting, affect the risks of material misstatement.
+Industry, Regulatory, and Other External Factors
+.09 Obtaining an understanding of relevant industry, regulatory, and other external factors encompasses industry factors, including the competitive environment and technological developments; the regulatory environment, including the applicable financial reporting framework and the legal and political environment; and external factors, including general economic conditions.
+Nature of the Company
+.10 Obtaining an understanding of the nature of the company includes understanding:
+The company's organizational structure and management personnel;
+The sources of funding of the company's operations and investment activities, including the company's capital structure, noncapital funding (e.g., subordinated debt or dependencies on supplier financing), and other debt instruments;
+The company's significant investments, including equity method investments, joint ventures, and variable interest entities;
+The company's operating characteristics, including its size and complexity;
+Note: The size and complexity of a company might affect the risks of misstatement and how the company addresses those risks.
+The sources of the company's earnings, including the relative profitability of key products and services; and
+Key supplier and customer relationships.
+.10A To assist in obtaining information for identifying and assessing risks of material misstatement of the financial statements associated with a company's financial relationships and transactions with its executive officers (e.g., executive compensation, including perquisites, and any other arrangements), the auditor should perform procedures to obtain an understanding of the company's financial relationships and transactions with its executive officers. The procedures should be designed to identify risks of material misstatement and should include, but not be limited to (1) reading the employment and compensation contracts between the company and its executive officers and (2) reading the proxy statements and other relevant company filings with the Securities and Exchange Commission and other regulatory agencies that relate to the company's financial relationships and transactions with its executive officers.
+.11 As part of obtaining an understanding of the company as required by paragraph .07, the auditor should consider performing the following procedures and the extent to which the procedures should be performed:
+Reading public information about the company relevant to the evaluation of the likelihood of material financial statement misstatements and, in an integrated audit, the effectiveness of the company's internal control over financial reporting, e.g., company-issued press releases, company-prepared presentation materials for analysts or investor groups, and analyst reports;
+Observing or reading transcripts of earnings calls and, to the extent publicly available, other meetings with investors or rating agencies;
+Obtaining an understanding of compensation arrangements with senior management other than executive officers referred to in paragraph .10A, including incentive compensation arrangements, changes or adjustments to those arrangements, and special bonuses;
+Obtaining information about trading activity in the company's securities and holdings in the company's securities by significant holders to identify potentially significant unusual developments (e.g., from Forms 3, 4, 5, 13D, and 13G);
+Inquiring of the chair of the compensation committee, or the compensation committee's equivalent, and any compensation consultants engaged by either the compensation committee or the company regarding the structuring of the company's compensation for executive officers; and
+Obtaining an understanding of established policies and procedures regarding the authorization and approval of executive officer expense reimbursements.
+.11A If the auditor serves as a referred-to auditor in a divided-responsibility audit, as part of obtaining an understanding of the company, the referred-to auditor should consider making inquiries of the lead auditor as to matters that may be significant to the referred-to auditor’s own audit. Such matters may include transactions, adjustments, or other matters that have come to the attention of the lead auditor and that may require adjustment to or disclosure in the financial statements audited by the referred-to auditor.
+Selection and Application of Accounting Principles, Including Related Disclosures
+.12 As part of obtaining an understanding of the company's selection and application of accounting principles, including related disclosures, the auditor should evaluate whether the company's selection and application of accounting principles are appropriate for its business and consistent with the applicable financial reporting framework and accounting principles used in the relevant industry. Also, to identify and assess risks of material misstatement related to omitted, incomplete, or inaccurate disclosures, the auditor should develop expectations about the disclosures that are necessary for the company's financial statements to be presented fairly in conformity with the applicable financial reporting framework.
+.13 The following matters, if present, are relevant to the necessary understanding of the company's selection and application of accounting principles, including related disclosures:
+Significant changes in the company's accounting principles, financial reporting policies, or disclosures and the reasons for such changes;
+The financial reporting competencies of personnel involved in selecting and applying significant new or complex accounting principles;
+The accounts or disclosures for which judgment is used in the application of significant accounting principles, especially in determining management's estimates and assumptions;
+The effect of significant accounting principles in controversial or emerging areas for which there is a lack of authoritative guidance or consensus;
+The methods the company uses to account for significant transactions that are outside the normal course of business for the company or that otherwise appear to be unusual due to their timing, size, or nature ("significant unusual transactions"); and
+Financial reporting standards and laws and regulations that are new to the company, including when and how the company will adopt such requirements.
+Company Objectives, Strategies, and Related Business Risks
+.14 The purpose of obtaining an understanding of the company's objectives, strategies, and related business risks is to identify business risks that could reasonably be expected to result in material misstatement of the financial statements.
+Note: Some relevant business risks might be identified through other risk assessment procedures, such as obtaining an understanding of the nature of the company and understanding industry, regulatory, and other external factors.
+.15 The following are examples of situations in which business risks might result in material misstatement of the financial statements:
+Industry developments (a potential related business risk might be, e.g., that the company does not have the personnel or expertise to deal with the changes in the industry.)
+New products and services (a potential related business risk might be, e.g., that the new product or service will not be successful.)
+Use of information technology ("IT") (a potential related business risk might be, e.g., that systems and processes are incompatible.)
+New accounting requirements (a potential related business risk might be, e.g., incomplete or improper implementation of a new accounting requirement.)
+Expansion of the business (a potential related business risk might be, e.g., that the demand for the company's products or services has not been accurately estimated.)
+The effects of implementing a strategy, particularly any effects that will lead to new accounting requirements (a potential related business risk might be, e.g., incomplete or improper implementation of the strategy.)
+Current and prospective financing requirements (a potential related business risk might be, e.g., the loss of financing due to the company's inability to meet financing requirements.)
+Regulatory requirements (a potential related business risk might be, e.g., that there is increased legal exposure.)
+Note: Business risks could affect risks of material misstatement at the financial statement level, which would affect many accounts and disclosures in the financial statements. For example, a company's loss of financing or declining conditions affecting the company's industry could affect its ability to settle its obligations when due. This, in turn, could affect the risks of material misstatement related to, e.g., the classification of long-term liabilities or valuation of long-term assets, or it could result in substantial doubt about the company's ability to continue as a going concern. Other business risks could affect the risks of material misstatement for particular accounts, disclosures, or assertions. For example, an unsuccessful new product or service or failed business expansion might affect the risks of material misstatement related to the valuation of inventory and other related assets.
+Company Performance Measures
+.16 The purpose of obtaining an understanding of the company's performance measures is to identify performance measures, whether external or internal, that affect the risks of material misstatement.
+.17 The following are examples of performance measures that might affect the risks of material misstatement:
+Measures that form the basis for contractual commitments or incentive compensation arrangements;
+Measures used by external parties, such as analysts and rating agencies, to review the company's performance; and
+Measures the company uses to monitor its operations that highlight unexpected results or trends that prompt management to investigate their cause and take corrective action, including correction of misstatements.
+Note: The first two examples represent performance measures that can affect the risks of material misstatement by creating incentives or pressures for management of the company to manipulate certain accounts or disclosures to achieve certain performance targets (or conceal a failure to achieve those targets). The third example represents performance measures that management might use to monitor risks affecting the financial statements.
+Note: Smaller companies might have less formal processes to measure and review financial performance. In such cases, the auditor might identify relevant performance measures by considering the information that the company uses to manage the business.
+Obtaining an Understanding of Internal Control Over Financial Reporting
+.18 The auditor should obtain a sufficient understanding of each component of internal control over financial reporting ("understanding of internal control") to (a) identify the types of potential misstatements, (b) assess the factors that affect the risks of material misstatement, and (c) design further audit procedures.
+.19 The nature, timing, and extent of procedures that are necessary to obtain an understanding of internal control depend on the size and complexity of the company; the auditor's existing knowledge of the company's internal control over financial reporting; the nature of the company's controls, including the company's use of IT; the nature and extent of changes in systems and operations; and the nature of the company's documentation of its internal control over financial reporting.
+Note: The auditor also might obtain an understanding of certain controls that are not part of internal control over financial reporting, e.g., controls over the completeness and accuracy of operating or other nonfinancial information used as audit evidence.
+.20 Obtaining an understanding of internal control includes evaluating the design of controls that are relevant to the audit and determining whether the controls have been implemented.
+Note: Procedures the auditor performs to obtain evidence about design effectiveness include inquiry of appropriate personnel, observation of the company's operations, and inspection of relevant documentation. Walkthroughs, as described in paragraphs .37-.38, that include these procedures ordinarily are sufficient to evaluate design effectiveness.
+Note: Determining whether a control has been implemented means determining whether the control exists and whether the company is using it. The procedures to determine whether a control has been implemented may be performed in connection with the evaluation of its design. Procedures performed to determine whether a control has been implemented include inquiry of appropriate personnel, in combination with observation of the application of controls or inspection of documentation. Walkthroughs, as described in paragraphs .37-.38, that include these procedures ordinarily are sufficient to determine whether a control has been implemented.
+.21 Internal control over financial reporting can be described as consisting of the following components:
+The control environment,
+The company's risk assessment process,
+Information and communication,
+Control activities, and
+Monitoring of controls.
+.22 Management might use an internal control framework with components that differ from the components identified in the preceding paragraph when establishing and maintaining the company's internal control over financial reporting. In evaluating the design of controls and determining whether they have been implemented in an audit of financial statements only, the auditor may use the framework used by management or another suitable, recognized framework. For integrated audits, AS 2201, states, "The auditor should use the same suitable, recognized control framework to perform his or her audit of internal control over financial reporting as management uses for its annual evaluation of the effectiveness of the company's internal control over financial reporting." If the auditor uses a suitable, recognized internal control framework with components that differ from those listed in the preceding paragraph, the auditor should adapt the requirements in paragraphs .23-.36 of this standard to conform to the components in the framework used.
+Control Environment
+.23 The auditor should obtain an understanding of the company's control environment, including the policies and actions of management, the board, and the audit committee concerning the company's control environment.
+.24 Obtaining an understanding of the control environment includes assessing:
+Whether management's philosophy and operating style promote effective internal control over financial reporting;
+Whether sound integrity and ethical values, particularly of top management, are developed and understood; and
+Whether the board or audit committee understands and exercises oversight responsibility over financial reporting and internal control.
+Note: In an audit of financial statements only, this assessment may be based on the evidence obtained in understanding the control environment, in accordance with paragraph .23, and the other relevant knowledge possessed by the auditor. In an integrated audit of financial statements and internal control over financial reporting, AS 2201 describes the auditor's responsibility for evaluating the control environment.
+.25 If the auditor identifies a control deficiency in the company's control environment, the auditor should evaluate the extent to which this control deficiency is indicative of a fraud risk factor, as discussed in paragraphs .65-.66 of this standard.
+The Company's Risk Assessment Process
+.26 The auditor should obtain an understanding of management's process for:
+Identifying risks relevant to financial reporting objectives, including risks of material misstatement due to fraud ("fraud risks");
+Assessing the likelihood and significance of misstatements resulting from those risks; and
+Deciding about actions to address those risks.
+.27 Obtaining an understanding of the company's risk assessment process includes obtaining an understanding of the risks of material misstatement identified and assessed by management and the actions taken to address those risks.
+Information and Communication
+.28 Information System Relevant to Financial Reporting. The auditor should obtain an understanding of the information system, including the related business processes, relevant to financial reporting, including:
+The classes of transactions in the company's operations that are significant to the financial statements;
+The procedures, within both automated and manual systems, by which those transactions are initiated, authorized, processed, recorded, and reported;
+The related accounting records, supporting information, and specific accounts in the financial statements that are used to initiate, authorize, process, and record transactions;
+How the information system captures events and conditions, other than transactions, that are significant to the financial statements;
+Whether the related accounts involve accounting estimates and if so, the processes used to develop accounting estimates, including:
+The methods used, which may include models;
+The data and assumptions used, including the source from which they are derived; and
+The extent to which the company uses third parties (other than specialists), including the nature of the service provided and the extent to which the third parties use company data and assumptions; and
+The period-end financial reporting process.
+Note: Appendix B discusses additional considerations regarding manual and automated systems and controls.
+Note: The requirements in AS 2601, Consideration of an Entity's Use of a Service Organization, with respect to the auditor's responsibilities for obtaining an understanding of controls at the service organization apply when the company uses a service organization that is part of the company's information system over financial reporting.
+Note: For critical accounting estimates, paragraph .18 of AS 2501, Auditing Accounting Estimates, Including Fair Value Measurements, provides that the auditor should obtain an understanding of how management analyzed the sensitivity of its significant assumptions to change, based on other reasonably likely outcomes that would have a material effect on its financial condition or operating performance, and take that understanding into account when evaluating the reasonableness of significant assumptions and potential management bias.
+.28A When a company uses the work of a company's specialist, the auditor should obtain an understanding of the work and report(s), or equivalent communication, of the company's specialist(s) and the related company processes, including:
+The nature and purpose of the specialist's work;
+Whether the specialist's work is based on data produced by the company, data obtained from sources external to the company, or both; and
+The company's processes and controls for using the work of specialists.
+.29 The auditor also should obtain an understanding of how IT affects the company's flow of transactions. (See Appendix B.)
+Note: The identification of risks and controls within IT is not a separate evaluation. Instead, it is an integral part of the approach used to identify significant accounts and disclosures and their relevant assertions and, when applicable, to select the controls to test, as well as to assess risk and allocate audit effort.
+.30 A company's business processes are the activities designed to:
+Develop, purchase, produce, sell and distribute a company's products or services;
+Record information, including accounting and financial reporting information; and
+Ensure compliance with laws and regulations relevant to the financial statements.
+.31 Obtaining an understanding of the company's business processes assists the auditor in obtaining an understanding of how transactions are initiated, authorized, processed, and recorded.
+.32 A company's period-end financial reporting process, as referred to in paragraph .28e, includes the following:
+Procedures used to enter transaction totals into the general ledger;
+Procedures related to the selection and application of accounting principles;
+Procedures used to initiate, authorize, record, and process journal entries in the general ledger;
+Procedures used to record recurring and nonrecurring adjustments to the annual financial statements (and quarterly financial statements, if applicable); and
+Procedures for preparing annual financial statements and related disclosures (and quarterly financial statements, if applicable).
+.33 Communication. The auditor should obtain an understanding of how the company communicates financial reporting roles and responsibilities and significant matters relating to financial reporting to relevant company personnel and others, including:
+Communications between management, the audit committee, and the board of directors; and
+Communications to external parties, including regulatory authorities and shareholders.
+Control Activities
+.34 The auditor should obtain an understanding of control activities that is sufficient to assess the factors that affect the risks of material misstatement and to design further audit procedures, as described in paragraph .18 of this standard. As the auditor obtains an understanding of the other components of internal control over financial reporting, he or she is also likely to obtain knowledge about some control activities. The auditor should use his or her knowledge about the presence or absence of control activities obtained from the understanding of the other components of internal control over financial reporting in determining the extent to which it is necessary to devote additional attention to obtaining an understanding of control activities to assess the factors that affect the risks of material misstatement and to design further audit procedures.
+Note: A broader understanding of control activities is needed for relevant assertions for which the auditor plans to rely on controls. Also, in the audit of internal control over financial reporting, the auditor's understanding of control activities encompasses a broader range of accounts and disclosures than what is normally obtained in a financial statement audit.
+Monitoring of Controls
+.35 The auditor should obtain an understanding of the major types of activities that the company uses to monitor the effectiveness of its internal control over financial reporting and how the company initiates corrective actions related to its controls.
+.36 An understanding of the company's monitoring activities includes understanding the source of the information used in the monitoring activities.
+Performing Walkthroughs
+.37 As discussed in paragraph .20, the auditor may perform walkthroughs as part of obtaining an understanding of internal control over financial reporting. For example, the auditor may perform walkthroughs in connection with understanding the flow of transactions in the information system relevant to financial reporting, evaluating the design of controls relevant to the audit, and determining whether those controls have been implemented. In performing a walkthrough, the auditor follows a transaction from origination through the company's processes, including information systems, until it is reflected in the company's financial records, using the same documents and IT that company personnel use. Walkthrough procedures usually include a combination of inquiry, observation, inspection of relevant documentation, and re-performance of controls.
+Note: For integrated audits, AS 2201 establishes certain objectives that the auditor should achieve to further understand likely sources of potential misstatements and as part of selecting the controls to test. AS 2201 states that performing walkthroughs will frequently be the most effective way of achieving those objectives.
+.38 In performing a walkthrough, at the points at which important processing procedures occur, the auditor questions the company's personnel about their understanding of what is required by the company's prescribed procedures and controls. These probing questions, combined with the other walkthrough procedures, allow the auditor to gain a sufficient understanding of the process and to be able to identify important points at which a necessary control is missing or not designed effectively. Additionally, probing questions that go beyond a narrow focus on the single transaction used as the basis for the walkthrough allow the auditor to gain an understanding of the different types of significant transactions handled by the process.
+Relationship of Understanding of Internal Control to Tests of Controls
+.39 The objective of obtaining an understanding of internal control, as discussed in paragraph .18 of this standard, is different from testing controls for the purpose of assessing control risk or for the purpose of expressing an opinion on internal control over financial reporting in the audit of internal control over financial reporting. The auditor may obtain an understanding of internal control concurrently with performing tests of controls if he or she obtains sufficient appropriate evidence to achieve the objectives of both procedures. Also, the auditor should take into account the evidence obtained from understanding internal control when assessing control risk and, in the audit of internal control over financial reporting, forming an opinion about the effectiveness of internal control over financial reporting.
+.40 Relationship of Understanding of Internal Control to Evaluating Entity-Level Controls in an Audit of Internal Control Over Financial Reporting. AS 2201 states, "The auditor must test those entity-level controls that are important to the auditor's conclusion about whether the company has effective internal control over financial reporting." The procedures performed to obtain an understanding of certain components of internal control in accordance with this standard, e.g., the control environment, the company's risk assessment process, information and communication, and monitoring of controls, might provide evidence that is relevant to the auditor's evaluation of entity-level controls. The auditor should take into account the evidence obtained from understanding internal control when determining the nature, timing, and extent of procedures necessary to support the auditor's conclusions about the effectiveness of entity-level controls in the audit of internal control over financial reporting.
+Considering Information from the Acceptance and Continuance of Engagements Evaluation, Audit Planning Activities, Past Audits, and Other Engagements
+.41 Acceptance and Continuance of Engagements and Audit Planning Activities. The auditor should evaluate whether information obtained from the acceptance and continuance of engagements evaluation process or audit planning activities is relevant to identifying risks of material misstatement. Risks of material misstatement identified during those activities should be assessed as discussed beginning in paragraph .59 of this standard.
+.42 Past Audits. In subsequent years, the auditor should incorporate knowledge obtained during past audits into the auditor's process for identifying risks of material misstatement, including when identifying significant ongoing matters that affect the risks of material misstatement or determining how changes in the company or its environment affect the risks of material misstatement, as discussed in paragraph .08 of this standard.
+.43 If the auditor plans to limit the nature, timing, or extent of his or her risk assessment procedures by relying on information from past audits, the auditor should evaluate whether the prior years' information remains relevant and reliable.
+.44 Other Engagements. When the auditor has performed a review of interim financial information in accordance with AS 4105, Reviews of Interim Financial Information, the auditor should evaluate whether information obtained during the review is relevant to identifying risks of material misstatement in the year-end audit.
+.45 The auditor should obtain an understanding of the nature of the services that have been performed for the company by the auditor or affiliates of the firm and should take into account relevant information obtained from those engagements in identifying risks of material misstatement.
+Performing Analytical Procedures
+.46 The auditor should perform analytical procedures that are designed to:
+Enhance the auditor's understanding of the client's business and the significant transactions and events that have occurred since the prior year end; and
+Identify areas that might represent specific risks relevant to the audit, including the existence of unusual transactions and events, and amounts, ratios, and trends that warrant investigation.
+.47 In applying analytical procedures as risk assessment procedures, the auditor should perform analytical procedures relating to revenue with the objective of identifying unusual or unexpected relationships involving revenue accounts that might indicate a material misstatement, including material misstatement due to fraud. Also, when the auditor has performed a review of interim financial information in accordance with AS 4105, he or she should take into account the analytical procedures applied in that review when designing and applying analytical procedures as risk assessment procedures.
+.48 When performing an analytical procedure, the auditor should use his or her understanding of the company to develop expectations about plausible relationships among the data to be used in the procedure. When comparison of those expectations with relationships derived from recorded amounts yields unusual or unexpected results, the auditor should take into account those results in identifying the risks of material misstatement.
+Note: Analytical procedures performed as risk assessment procedures often use data that is preliminary or data that is aggregated at a high level, and, in those instances, such analytical procedures are not designed with the level of precision necessary for substantive analytical procedures.
+Conducting a Discussion among Engagement Team Members Regarding Risks of Material Misstatement
+.49 The key engagement team members should discuss (1) the company's selection and application of accounting principles, including related disclosure requirements, and (2) the susceptibility of the company's financial statements to material misstatement due to error or fraud.
+Note: The key engagement team members should discuss the potential for material misstatement due to fraud either as part of the discussion regarding risks of material misstatement or in a separate discussion.
+Note: As discussed in paragraph .67, the financial statements might be susceptible to misstatement through omission of required disclosures or presentation of inaccurate or incomplete disclosures.
+.50 Key engagement team members include all engagement team members who have significant engagement responsibilities, including the engagement partner. The manner in which the discussion is conducted depends on the individuals involved and the circumstances of the engagement. For example, if the audit involves more than one location, there could be multiple discussions with team members in differing locations. The engagement partner or other key engagement team members should communicate the important matters from the discussion to engagement team members who are not involved in the discussion.
+Note: If the audit is performed entirely by the engagement partner, that engagement partner, having personally conducted the planning of the audit, is responsible for evaluating the susceptibility of the company's financial statements to material misstatement.
+.51 Communication among the engagement team members about significant matters affecting the risks of material misstatement should continue throughout the audit, including when conditions change.
+Discussion of the Potential for Material Misstatement Due to Fraud
+.52 The discussion among the key engagement team members about the potential for material misstatement due to fraud should occur with an attitude that includes a questioning mind, and the key engagement team members should set aside any prior beliefs they might have that management is honest and has integrity. The discussion among the key engagement team members should include:
+An exchange of ideas, or "brainstorming," among the key engagement team members, including the engagement partner, about how and where they believe the company's financial statements might be susceptible to material misstatement due to fraud, how management could perpetrate and conceal fraudulent financial reporting, and how assets of the company could be misappropriated, including (a) the susceptibility of the financial statements to material misstatement through related party transactions, (b) how fraud might be perpetrated or concealed by omitting or presenting incomplete or inaccurate disclosures, and (c) how the financial statements could be manipulated through management bias in accounting estimates in significant accounts and disclosures;
+A consideration of the known external and internal factors affecting the company that might (a) create incentives or pressures for management and others to commit fraud, (b) provide the opportunity for fraud to be perpetrated, and (c) indicate a culture or environment that enables management to rationalize committing fraud;
+A consideration of the risk of management override; and
+A consideration of the potential audit responses to the susceptibility of the company's financial statements to material misstatement due to fraud.
+.53 The auditor should emphasize the following matters to all engagement team members:
+The need to maintain a questioning mind throughout the audit and to exercise professional skepticism in gathering and evaluating evidence, as described in AS 2401;
+The need to be alert for information or other conditions (such as those matters presented in Appendix C of AS 2810) that might affect the assessment of fraud risks; and
+If information or other conditions indicate that a material misstatement due to fraud might have occurred, the need to probe the issues, acquire additional evidence as necessary, and consult with other team members and, if appropriate, others in the firm including specialists.
+Inquiring of the Audit Committee, Management, and Others within the Company about the Risks of Material Misstatement
+.54 The auditor should inquire of the audit committee, or equivalent (or its chair), management, the internal audit function, and others within the company who might reasonably be expected to have information that is important to the identification and assessment of risks of material misstatement.
+Note: The auditor's inquiries about risks of material misstatement should include inquiries regarding fraud risks.
+.55 The auditor should use his or her knowledge of the company and its environment, as well as information from other risk assessment procedures, to determine the nature of the inquiries about risks of material misstatement.
+Inquiries Regarding Fraud Risks
+.56 The auditor's inquiries regarding fraud risks should include the following:
+Inquiries of management regarding:
+Whether management has knowledge of fraud, alleged fraud, or suspected fraud affecting the company;
+Management's process for identifying and responding to fraud risks in the company, including any specific fraud risks the company has identified or account balances or disclosures for which a fraud risk is likely to exist, and the nature, extent, and frequency of management's fraud risk assessment process;
+Controls that the company has established to address fraud risks the company has identified, or that otherwise help to prevent and detect fraud, including how management monitors those controls;
+For a company with multiple locations (a) the nature and extent of monitoring of operating locations or business segments and (b) whether there are particular operating locations or business segments for which a fraud risk might be more likely to exist;
+Whether and how management communicates to employees its views on business practices and ethical behavior;
+Whether management has received tips or complaints regarding the company's financial reporting (including those received through the audit committee's internal whistleblower program, if such program exists) and, if so, management's responses to such tips and complaints;
+Whether management has reported to the audit committee on how the company's internal control serves to prevent and detect material misstatements due to fraud; and
+Whether the company has entered into any significant unusual transactions and, if so, the nature, terms, and business purpose (or the lack thereof) of those transactions and whether such transactions involved related parties.
+Inquiries of the audit committee, or equivalent, or its chair regarding:
+The audit committee's views about fraud risks in the company;
+Whether the audit committee has knowledge of fraud, alleged fraud, or suspected fraud affecting the company;
+Whether the audit committee is aware of tips or complaints regarding the company's financial reporting (including those received through the audit committee's internal whistleblower program, if such program exists) and, if so, the audit committee's responses to such tips and complaints;
+How the audit committee exercises oversight of the company's assessment of fraud risks and the establishment of controls to address fraud risks; and
+Whether the company has entered into any significant unusual transactions.
+If the company has an internal audit function, inquiries of appropriate internal audit personnel regarding:
+The internal auditors' views about fraud risks in the company;
+Whether the internal auditors have knowledge of fraud, alleged fraud, or suspected fraud affecting the company;
+Whether internal auditors have performed procedures to identify or detect fraud during the year, and whether management has satisfactorily responded to the findings resulting from those procedures;
+Whether internal auditors are aware of instances of management override of controls and the nature and circumstances of such overrides; and
+Whether the company has entered into any significant unusual transactions.
+.57 In addition to the inquiries outlined in the preceding paragraph, the auditor should inquire of others within the company about their views regarding fraud risks, including, in particular, whether they have knowledge of fraud, alleged fraud, or suspected fraud. The auditor should identify other individuals within the company to whom inquiries should be directed and determine the extent of such inquiries by considering whether others in the company might have additional knowledge about fraud, alleged fraud, or suspected fraud or might be able to corroborate fraud risks identified in discussions with management or the audit committee. Examples of other individuals within the company to whom inquiries might be directed include:
+Employees with varying levels of authority within the company, including, e.g., company personnel with whom the auditor comes into contact during the course of the audit (a) in obtaining an understanding of internal control, (b) in observing inventory or performing cutoff procedures, or (c) in obtaining explanations for significant differences identified when performing analytical procedures;
+Operating personnel not directly involved in the financial reporting process;
+Employees involved in initiating, recording, or processing complex or unusual transactions, e.g., a sales transaction with multiple elements, a significant unusual transaction, or a significant related party transaction; and
+In-house legal counsel.
+.58 When evaluating management's responses to inquiries about fraud risks and determining when it is necessary to corroborate management's responses, the auditor should take into account the fact that management is often in the best position to commit fraud. Also, the auditor should obtain evidence to address inconsistencies in responses to the inquiries.
+Identifying and Assessing the Risks of Material Misstatement
+.59 The auditor should identify and assess the risks of material misstatement at the financial statement level and the assertion level. In identifying and assessing risks of material misstatement, the auditor should:
+Identify risks of misstatement using information obtained from performing risk assessment procedures (as discussed in paragraphs .04-.58) and considering the characteristics of the accounts and disclosures in the financial statements.
+Note: Factors relevant to identifying fraud risks are discussed in paragraphs .65-.69 of this standard.
+Evaluate whether the identified risks relate pervasively to the financial statements as a whole and potentially affect many assertions.
+Evaluate the types of potential misstatements that could result from the identified risks and the accounts, disclosures, and assertions that could be affected.
+Note: In identifying and assessing risks at the assertion level, the auditor should evaluate how risks at the financial statement level could affect risks of misstatement at the assertion level.
+Assess the likelihood of misstatement, including the possibility of multiple misstatements, and the magnitude of potential misstatement to assess the possibility that the risk could result in material misstatement of the financial statements.
+Note: In assessing the likelihood and magnitude of potential misstatement, the auditor may take into account the planned degree of reliance on controls selected to test.
+Identify significant accounts and disclosures and their relevant assertions (paragraphs .60-.64 of this standard).
+Note: The determination of whether an account or disclosure is significant or whether an assertion is a relevant assertion is based on inherent risk, without regard to the effect of controls.
+Determine whether any of the identified and assessed risks of material misstatement are significant risks (paragraphs .70-.71 of this standard).
+Identifying Significant Accounts and Disclosures and Their Relevant Assertions
+.60 To identify significant accounts and disclosures and their relevant assertions in accordance with paragraph .59e, the auditor should evaluate the qualitative and quantitative risk factors related to the financial statement line items and disclosures. Risk factors relevant to the identification of significant accounts and disclosures and their relevant assertions include:
+Size and composition of the account;
+Susceptibility to misstatement due to error or fraud;
+Volume of activity, complexity, and homogeneity of the individual transactions processed through the account or reflected in the disclosure;
+Nature of the account or disclosure;
+Accounting and reporting complexities associated with the account or disclosure;
+Exposure to losses in the account;
+Possibility of significant contingent liabilities arising from the activities reflected in the account or disclosure;
+Existence of related party transactions in the account; and
+Changes from the prior period in account and disclosure characteristics.
+.60A Additional risk factors relevant to the identification of significant accounts and disclosures involving accounting estimates include the following:
+The degree of uncertainty associated with the future occurrence or outcome of events and conditions underlying the significant assumptions;
+The complexity of the process for developing the accounting estimate;
+The number and complexity of significant assumptions associated with the process;
+The degree of subjectivity associated with significant assumptions (for example, because of significant changes in the related events and conditions or a lack of available observable inputs); and
+If forecasts are important to the estimate, the length of the forecast period and degree of uncertainty regarding trends affecting the forecast.
+.61 As part of identifying significant accounts and disclosures and their relevant assertions, the auditor also should determine the likely sources of potential misstatements that would cause the financial statements to be materially misstated. The auditor might determine the likely sources of potential misstatements by asking himself or herself "what could go wrong?" within a given significant account or disclosure.
+.62 The risk factors that the auditor should evaluate in the identification of significant accounts and disclosures and their relevant assertions are the same in the audit of internal control over financial reporting as in the audit of the financial statements; accordingly, significant accounts and disclosures and their relevant assertions are the same for both audits.
+Note: In the financial statement audit, the auditor might perform substantive auditing procedures on financial statement accounts, disclosures, and assertions that are not determined to be significant accounts and disclosures and relevant assertions.
+.63 The components of a potential significant account or disclosure might be subject to significantly differing risks.
+.64 When a company has multiple locations or business units, the auditor should identify significant accounts and disclosures and their relevant assertions based on the consolidated financial statements.
+Factors Relevant to Identifying Fraud Risks
+.65 The auditor should evaluate whether the information gathered from the risk assessment procedures indicates that one or more fraud risk factors are present and should be taken into account in identifying and assessing fraud risks. Fraud risk factors are events or conditions that indicate (1) an incentive or pressure to perpetrate fraud, (2) an opportunity to carry out the fraud, or (3) an attitude or rationalization that justifies the fraudulent action. Fraud risk factors do not necessarily indicate the existence of fraud; however, they often are present in circumstances in which fraud exists. Examples of fraud risk factors related to fraudulent financial reporting and misappropriation of assets are listed in AS 2401.85. These illustrative risk factors are classified based on the three conditions discussed in this paragraph, which generally are present when fraud exists.
+Note: The factors listed in AS 2401.85 cover a broad range of situations and are only examples. Accordingly, the auditor might identify additional or different fraud risk factors.
+.66 All three conditions discussed in the preceding paragraph are not required to be observed or evident to conclude that a fraud risk exists. The auditor might conclude that a fraud risk exists even when only one of these three conditions is present.
+.67 Consideration of the Risk of Omitted, Incomplete, or Inaccurate Disclosures. The auditor's evaluation of fraud risk factors in accordance with paragraph .65 should include evaluation of how fraud could be perpetrated or concealed by presenting incomplete or inaccurate disclosures or by omitting disclosures that are necessary for the financial statements to be presented fairly in conformity with the applicable financial reporting framework.
+.68 Presumption of Fraud Risk Involving Improper Revenue Recognition. The auditor should presume that there is a fraud risk involving improper revenue recognition and evaluate which types of revenue, revenue transactions, or assertions may give rise to such risks.
+.69 Consideration of the Risk of Management Override of Controls. The auditor's identification of fraud risks should include the risk of management override of controls.
+Note: Controls over management override are important to effective internal control over financial reporting for all companies, and may be particularly important at smaller companies because of the increased involvement of senior management in performing controls and in the period-end financial reporting process. For smaller companies, the controls that address the risk of management override might be different from those at a larger company. For example, a smaller company might rely on more detailed oversight by the audit committee that focuses on the risk of management override.
+Factors Relevant to Identifying Significant Risks
+.70 To determine whether an identified and assessed risk is a significant risk, the auditor should evaluate whether the risk requires special audit consideration because of the nature of the risk or the likelihood and potential magnitude of misstatement related to the risk.
+Note: The determination of whether a risk of material misstatement is a significant risk is based on inherent risk, without regard to the effect of controls.
+.71 Factors that should be evaluated in determining which risks are significant risks include:
+The effect of the quantitative and qualitative risk factors discussed in paragraph .60 on the likelihood and potential magnitude of misstatements;
+Whether the risk is a fraud risk;
+Note: A fraud risk is a significant risk.
+Whether the risk is related to recent significant economic, accounting, or other developments;
+The complexity of transactions;
+Whether the risk involves significant transactions with related parties;
+The degree of complexity or judgment in the recognition or measurement of financial information related to the risk, especially those measurements involving a wide range of measurement uncertainty; and
+Whether the risk involves significant unusual transactions.
+Further Consideration of Controls
+.72 When the auditor has determined that a significant risk, including a fraud risk, exists, the auditor should evaluate the design of the company's controls that are intended to address fraud risks and other significant risks and determine whether those controls have been implemented, if the auditor has not already done so when obtaining an understanding of internal control, as described in paragraphs .18-.40 of this standard.
+.73 Controls that address fraud risks include (a) specific controls designed to mitigate specific risks of fraud, e.g., controls to address risks of intentional misstatement of specific accounts and (b) controls designed to prevent, deter, and detect fraud, e.g., controls to promote a culture of honesty and ethical behavior. Such controls also include those that address the risk of management override of other controls.
+.73A The auditor should obtain an understanding of the controls that management has established to identify, authorize and approve, and account for and disclose significant unusual transactions in the financial statements, if the auditor has not already done so when obtaining an understanding of internal control, as described in paragraphs .18-.40 and .72-.73 of this standard.
+Revision of Risk Assessment
+.74 The auditor's assessment of the risks of material misstatement, including fraud risks, should continue throughout the audit. When the auditor obtains audit evidence during the course of the audit that contradicts the audit evidence on which the auditor originally based his or her risk assessment, the auditor should revise the risk assessment and modify planned audit procedures or perform additional procedures in response to the revised risk assessments.
+Appendix A - Definitions
+.A1 For purposes of this standard, the terms listed below are defined as follows:
+.A2 Business risks - Risks that result from significant conditions, events, circumstances, actions, or inactions that could adversely affect a company's ability to achieve its objectives and execute its strategies. Business risks also might result from setting inappropriate objectives and strategies or from changes or complexity in the company's operations or management.
+.A3 Company's objectives and strategies - The overall plans for the company as established by management or the board of directors. Strategies are the approaches by which management intends to achieve its objectives.
+.A3A Executive officer - For issuers, the president; any vice president of a company in charge of a principal business unit, division, or function (such as sales, administration or finance); any other officer who performs a policy-making function; or any other person who performs similar policy-making functions for a company. Executive officers of subsidiaries may be deemed executive officers of a company if they perform such policy-making functions for the company. (See Rule 3b-7 under the Exchange Act.) For brokers and dealers, the term "executive officer" includes a broker's or dealer's chief executive officer, chief financial officer, chief operations officer, chief legal officer, chief compliance officer, director, and individuals with similar status or functions. (See Schedule A of Form BD.)
+.A4 Risk assessment procedures - The procedures performed by the auditor to obtain information for identifying and assessing the risks of material misstatement in the financial statements whether due to error or fraud.
+Note: Risk assessment procedures by themselves do not provide sufficient appropriate evidence on which to base an audit opinion.
+.A5 Significant risk - A risk of material misstatement that requires special audit consideration.
+Appendix B - Consideration of Manual and Automated Systems and Controls
+.B1 While obtaining an understanding of the company's information system related to financial reporting, the auditor should obtain an understanding of how the company uses information technology ("IT") and how IT affects the financial statements. The auditor also should obtain an understanding of the extent of manual controls and automated controls used by the company, including the IT general controls that are important to the effective operations of the automated controls. That information should be taken into account in assessing the risks of material misstatement.
+.B2 Controls in a manual system might include procedures such as approvals and reviews of transactions, and reconciliations and follow-up of reconciling items.
+.B3 Alternatively, a company might use automated procedures to initiate, record, process, and report transactions, in which case records in electronic format would replace paper documents. When IT is used to initiate, record, process, and report transactions, the IT systems and programs may include controls related to the relevant assertions of significant accounts and disclosures or may be critical to the effective functioning of manual controls that depend on IT.
+.B4 The auditor should obtain an understanding of specific risks to a company's internal control over financial reporting resulting from IT. Examples of such risks include:
+Reliance on systems or programs that are inaccurately processing data, processing inaccurate data, or both;
+Unauthorized access to data that might result in destruction of data or improper changes to data, including the recording of unauthorized or non-existent transactions or inaccurate recording of transactions (particular risks might arise when multiple users access a common database);
+The possibility of IT personnel gaining access privileges beyond those necessary to perform their assigned duties, thereby breaking down segregation of duties;
+Unauthorized changes to data in master files;
+Unauthorized changes to systems or programs;
+Failure to make necessary changes to systems or programs;
+Inappropriate manual intervention; and
+Potential loss of data or inability to access data as required.
+.B5 In obtaining an understanding of the company's control activities, the auditor should obtain an understanding of how the company has responded to risks arising from IT.
+.B6 When a company uses manual elements in internal control systems and the auditor plans to rely on, and therefore test, those manual controls, the auditor should design procedures to test the consistency in the application of those manual controls.
+Footnotes (AS 2110 - Identifying and Assessing Risks of Material Misstatement):
+Paragraphs .05-.08 of AS 1101, Audit Risk.
+Terms defined in Appendix A, Definitions, are set in boldface type the first time they appear.
+AS 2401, Consideration of Fraud in a Financial Statement Audit, discusses fraud, its characteristics, and the types of misstatements due to fraud that are relevant to the audit, i.e., misstatements arising from fraudulent financial reporting and misstatements arising from asset misappropriation. Also, AS 2410, Related Parties, requires the auditor to perform procedures to obtain an understanding of the company's relationships and transactions with its related parties that might reasonably be expected to affect the risks of material misstatement of the financial statements.
+AS 1105, Audit Evidence, describes further audit procedures as consisting of tests of controls and substantive procedures.
+The term “engagement team,” as used in this standard, has the same meaning as defined in Appendix A of AS 2101, Audit Planning.
+AS 1105.11 discusses financial statement assertions.
+The auditor should look to the requirements of the Securities and Exchange Commission for the company under audit with respect to the accounting principles applicable to that company.
+AS 2405, Illegal Acts by Clients, discusses the auditor's consideration of laws and regulations relevant to the audit.
+See AS 1206, Dividing Responsibility for the Audit with Another Accounting Firm.
+See AS 2401.66-.67A.
+Paragraphs .21-.22 of this standard discuss components of internal control over financial reporting.
+Paragraph .13 of AS 2201, An Audit of Internal Control Over Financial Reporting That is Integrated with An Audit of Financial Statements, states, "The size and complexity of the company, its business processes, and business units, may affect the way in which the company achieves many of its control objectives. The size and complexity of the company also might affect the risks of misstatement and the controls necessary to address those risks."
+AS 1105.10.
+Different internal control frameworks use different terms and approaches to describe the components of internal control over financial reporting.
+See Securities Exchange Act Release No. 34-47986 (June 5, 2003) for a description of the characteristics of a suitable, recognized framework.
+AS 2201.05.
+AS 2201.25.
+AS 2201.A3.
+Examples of such events and conditions include depreciation and amortization and conditions affecting the recoverability of assets.
+See paragraph .A3 of AS 1301, Communications with Audit Committees.
+See U.S. Securities and Exchange Commission, Financial Reporting Release No. 72, Interpretation: Commission Guidance Regarding Management's Discussion and Analysis of Financial Condition and Results of Operations (Dec. 19, 2003), 68 FR 75056 (Dec. 29, 2003), at Section V ("Critical Accounting Estimates") for management's responsibilities related to critical accounting estimates.
+See paragraph .34 of this standard.
+Paragraphs .12-.13 of this standard.
+Also see paragraph .B5 of Appendix B of this standard.
+In some companies, internal auditors or others performing an equivalent function contribute to the monitoring of controls. AS 2605, Consideration of the Internal Audit Function, establishes requirements regarding the auditor's consideration and use of the work of the internal audit function.
+See AS 2201.34-.38.
+Paragraphs .16-.35 of AS 2301, The Auditor's Responses to the Risks of Material Misstatement.
+AS 2201.B1.
+AS 2201.22.
+The entity-level controls included in AS 2201.24 include controls related to the control environment; the company's risk assessment process; centralized processing and controls; controls over the period-end financial reporting process; and controls to monitor other controls.
+See PCAOB Rule 3501(a)(i), which defines "affiliate of the accounting firm."
+Paragraph .07 of AS 2101.
+Analytical procedures consist of evaluations of financial information made by a study of plausible relationships among both financial and nonfinancial data.
+Paragraphs .52-.53 of this standard.
+See also paragraph .29 of AS 2810, Evaluating Audit Results.
+AS 2401.13.
+AS 2810.20-.23 establish further requirements for evaluating whether misstatements might be indicative of fraud and determining the necessary procedures to be performed in those situations.
+See AS 2401.66-.67A.
+AS 2301.16-.35.
+AS 2201.A10 states:
+An account or disclosure is a significant account or disclosure if there is a reasonable possibility that the account or disclosure could contain a misstatement that, individually or when aggregated with others, has a material effect on the financial statements, considering the risks of both overstatement and understatement. The determination of whether an account or disclosure is significant is based on inherent risk, without regard to the effect of controls.
+AS 2201.A9 states:
+A relevant assertion is a financial statement assertion that has a reasonable possibility of containing a misstatement or misstatements that would cause the financial statements to be materially misstated. The determination of whether an assertion is a relevant assertion is based on inherent risk, without regard to the effect of controls.
+The auditor might perform substantive auditing procedures because his or her assessment of the risk that undetected misstatement would cause the financial statements to be materially misstated is unacceptably high or as a means of introducing unpredictability in the procedures performed. See AS 2810.11, .14, and .25, for further discussion about undetected misstatement. See AS 2201.61 and AS 2301.5c, for further discussion about the unpredictability of auditing procedures.
+See also AS 2101.11- .12, which describe additional risk assessment considerations for multi-location engagements.
+AS 2301 discusses the auditor's response to fraud risks and other significant risks.
+AS 2201.14 presents examples of controls that address fraud risks.
+See also AS 2301.46.
+Footnotes (Appendix B - Consideration of Manual and Automated Systems and Controls):
+See also AS 2601, Consideration of an Entity's Use of a Service Organization, if the company uses a service organization for services that are part of the company's internal control over financial reporting.
+See also paragraphs .16-.17 of AS 2101, Audit Planning.

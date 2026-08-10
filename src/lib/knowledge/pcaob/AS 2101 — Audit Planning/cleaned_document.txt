@@ -1,0 +1,173 @@
+AS 2101: Audit Planning (effective on 12/15/2026)
+The following amended standard will be effective on December 15, 2026. See Appendix 5 of ; see also .
+View the standard effective for audits of financial statements for fiscal years beginning on or after December 15, 2024, not including amendments effective on December 15, 2026.
+The gray boxes highlight amended portions of the standard.
+Adopting Release:
+Amendments:
+Guidance on AS 2101: Staff Audit Practice Alerts , , and and
+Summary Table of ContentsExpand Content
+Introduction
+.01 This standard establishes requirements regarding planning an audit.
+Objective
+.02 The objective of the auditor is to plan the audit so that the audit is conducted effectively.
+Responsibility of the Engagement Partner for Planning
+.03 The engagement partner is responsible for the engagement and its performance. Accordingly, the engagement partner is responsible for planning the audit and may seek assistance from appropriate engagement team members (which may include engagement team members outside the engagement partner’s firm) in fulfilling this responsibility. Engagement team members who assist the engagement partner with audit planning also should comply with the relevant requirements in this standard.
+Note: When the engagement partner seeks assistance, the engagement partner nevertheless retains primary responsibility for the engagement and its performance. The assistance provided by appropriate engagement team members to supervise, including review, the work of other engagement team members does not replace or reduce the engagement partner’s responsibility.
+Planning an Audit
+.04 The auditor should properly plan the audit. This standard describes the auditor’s responsibilities for properly planning the audit. For audits that involve other auditors or referred-to auditors, this standard describes additional responsibilities for the engagement partner and the lead auditor.
+.05 Planning the audit includes establishing the overall audit strategy for the engagement and developing an audit plan, which includes, in particular, planned risk assessment procedures and planned responses to the risks of material misstatement. Planning is not a discrete phase of an audit but, rather, a continual and iterative process that might begin shortly after (or in connection with) the completion of the previous audit and continues until the completion of the current audit.
+Preliminary Engagement Activities
+.06 The auditor should perform the following activities at the beginning of the audit:
+Perform procedures regarding the continuance of the engagement,
+Determine compliance with independence and ethics requirements,and
+Note: The determination of compliance with independence and ethics requirements is not limited to preliminary engagement activities and should be reevaluated with changes in circumstances.
+Establish an understanding of the terms of the audit engagement with the audit committee in accordance with AS 1301, Communications with Audit Committees.
+Preliminary Engagement Activities - Additional Considerations for Audits Involving Other Auditors or Referred-to Auditors
+Serving as the Lead Auditor in an Audit that Involves Other Auditors or Referred-to Auditors
+.06A In an audit that involves other auditors or referred-to auditors, the engagement partner should determine whether the participation of his or her firm is sufficient for the firm to carry out the responsibilities of a lead auditor and to report as such on the company’s financial statements. In making this determination, the engagement partner should take into account the following, in combination:
+The importance of the locations or business units for which the engagement partner’s firm performs audit procedures in relation to the financial statements of the company as a whole, considering quantitative and qualitative factors;
+The risks of material misstatement associated with the portion of the company’s financial statements for which the engagement partner’s firm performs audit procedures, in comparison with the portions for which the other auditors perform audit procedures or the portions audited by the referred-to auditors; and
+The extent of the engagement partner’s firm’s supervision of the other auditors’ work for portions of the company’s financial statements for which the other auditors perform audit procedures. In a multi-tiered audit (see AS 1201.14), this subparagraph c applies only to the firm’s supervision of a first other auditor and any other auditor that is supervised directly by the firm.
+In addition, in an audit that involves referred-to auditors (see AS 1206), the participation of the engagement partner’s firm ordinarily is not sufficient for it to serve as lead auditor if the referred-to auditors, in aggregate, audit more than 50 percent of the company’s assets or revenues.
+.06B In an audit that involves other auditors performing work regarding locations or business units, the involvement of the lead auditor (through a combination of planning and performing audit procedures and supervision of other auditors) should be commensurate with the risks of material misstatement associated with those locations or business units.
+.06C In an integrated audit of a company’s financial statements and its internal control over financial reporting that involves other auditors or referred-to auditors, the lead auditor of the financial statements must participate sufficiently in the audit of internal control over financial reporting to provide a basis for serving as the lead auditor of internal control over financial reporting. Only the lead auditor of the financial statements can be the lead auditor of internal control over financial reporting.
+Other Auditors’ Compliance with Independence and Ethics Requirements
+.06D In an audit that involves other auditors, the lead auditor should, with respect to each other auditor, perform the following procedures in conjunction with determining compliance with SEC independence requirements and PCAOB independence and ethics requirements pursuant to paragraph .06b of this standard:
+Obtain an understanding of the other auditor’s (1) knowledge of SEC independence requirements and PCAOB independence and ethics requirements and (2) experience in applying the requirements; and
+Obtain from the other auditor and review:
+A written affirmation as to whether the other auditor has policies and procedures that provide reasonable assurance that the other auditor maintains compliance with SEC independence requirements and PCAOB independence and ethics requirements, and if it does not, a written description of how the other auditor determines its compliance with the requirements;
+A written description of all relationships between the other auditor and the audit client or persons in financial reporting oversight roles at the audit client that may reasonably be thought to bear on independence pursuant to the requirements of paragraph (b)(1) of PCAOB Rule 3526, Communication with Audit Committees Concerning Independence; and
+A written affirmation as to whether the other auditor is in compliance with SEC independence requirements and PCAOB independence and ethics requirements with respect to the audit client, and, if it is not in compliance, a written description of the nature of the instances of non-compliance.
+For the matters described in items a and b:
+Inform the other auditor of changes in circumstances, of which the lead auditor becomes aware, that (i) affect determining compliance with SEC independence requirements and PCAOB independence and ethics requirements, and (ii) are relevant to the other auditor’s affirmations and descriptions; and
+Request that the other auditor (i) update its affirmations and descriptions to reflect changes in circumstances of which the other auditor becomes aware (including changes communicated by the lead auditor) that affect determining compliance with SEC independence requirements and PCAOB independence and ethics requirements, and (ii) provide the updated affirmations and descriptions to the lead auditor upon becoming aware of such changes.
+Note: For the matters described in paragraph .06D, information (including affirmations and descriptions) may be obtained from the other auditor covering the other auditor’s firm and engagement team members who are partners, principals, shareholders, or employees of the firm.
+.06E In multi-tiered audits (see AS 1201.14), a first other auditor may assist the lead auditor in performing the procedures described in paragraph .06D with respect to one or more second other auditors. If so, the lead auditor should instruct the first other auditor to inform the lead auditor of the results of procedures performed, including bringing to the lead auditor’s attention any information indicating that a second other auditor is not in compliance with SEC independence requirements or PCAOB independence and ethics requirements. The lead auditor remains responsible for determining compliance with those requirements pursuant to paragraph .06b of this standard.
+.06F If the lead auditor becomes aware of information that contradicts an affirmation or description provided by an other auditor pursuant to paragraph .06D, the lead auditor should investigate the circumstances and consider the reliability of the affirmation or description. If, after such investigation, or based on the other auditor’s affirmation or description, the lead auditor obtains information indicating that the other auditor is not in compliance with SEC independence requirements or PCAOB independence and ethics requirements, the lead auditor should consider the implications for determining compliance with those requirements pursuant to paragraph .06b of this standard.
+PCAOB Registration Status of Other Auditors
+.06G In an audit that involves an other auditor that plays a substantial role in the preparation or furnishing of the lead auditor’s report, the lead auditor may use the work of the other auditor only if the other auditor is registered with the PCAOB.
+Knowledge, Skill, and Ability of and Communications with Other Auditors
+.06H In an audit that involves other auditors, the lead auditor should, with respect to each other auditor:
+Obtain an understanding of the knowledge, skill, and ability of the other auditor’s engagement team members who assist the lead auditor with planning or supervision, including their:
+Experience in the industry in which the company operates; and
+Knowledge of the relevant financial reporting framework, PCAOB standards and rules, and SEC rules and regulations, and their experience in applying the standards, rules, and regulations;
+Obtain a written affirmation from the other auditor that its engagement team members possess the knowledge, skill, and ability to perform their assigned tasks; and
+Determine that the lead auditor is able to communicate with the other auditor and gain access to the other auditor’s audit documentation.
+.06I In multi-tiered audits (see AS 1201.14), a first other auditor may assist the lead auditor in performing the procedures described in paragraph .06H with respect to one or more second other auditors.
+Planning Activities
+.07 The nature and extent of planning activities that are necessary depend on the size and complexity of the company, the auditor’s previous experience with the company, and changes in circumstances that occur during the audit. When developing the audit strategy and audit plan, as discussed in paragraphs .08-.10, the auditor should evaluate whether the following matters are important to the company’s financial statements and internal control over financial reporting and, if so, how they will affect the auditor’s procedures:
+Knowledge of the company's internal control over financial reporting obtained during other engagements performed by the auditor;
+Matters affecting the industry in which the company operates, such as financial reporting practices, economic conditions, laws and regulations, and technological changes;
+Matters relating to the company's business, including its organization, operating characteristics, and capital structure;
+The extent of recent changes, if any, in the company, its operations, or its internal control over financial reporting;
+The auditor's preliminary judgments about materiality, risk, and, in integrated audits, other factors relating to the determination of material weaknesses;
+Control deficiencies previously communicated to the audit committee or management;
+Legal or regulatory matters of which the company is aware;
+The type and extent of available evidence related to the effectiveness of the company's internal control over financial reporting;
+Preliminary judgments about the effectiveness of internal control over financial reporting;
+Public information about the company relevant to the evaluation of the likelihood of material financial statement misstatements and the effectiveness of the company's internal control over financial reporting;
+Knowledge about risks related to the company evaluated as part of the auditor’s acceptance and continuance of engagements evaluation; and
+The relative complexity of the company's operations.
+Note: Many smaller companies have less complex operations. Additionally, some larger, complex companies may have less complex units or processes. Factors that might indicate less complex operations include: fewer business lines; less complex business processes and financial reporting systems; more centralized accounting functions; extensive involvement by senior management in the day-to-day activities of the business; and fewer levels of management, each with a wide span of control.
+Audit Strategy
+.08 The auditor should establish an overall audit strategy that sets the scope, timing, and direction of the audit and guides the development of the audit plan.
+.09 In establishing the overall audit strategy, the auditor should take into account:
+The reporting objectives of the engagement and the nature of the communications required by PCAOB standards,
+The factors that are significant in directing the activities of the engagement team,
+The results of preliminary engagement activities and the auditor's evaluation of the important matters in accordance with paragraph .07 of this standard, and
+The nature, timing, and extent of resources necessary to perform the engagement.
+Audit Plan
+.10 The auditor should develop and document an audit plan that includes a description of:
+The planned nature, timing, and extent of the risk assessment procedures;
+The planned nature, timing, and extent of tests of controls and substantive procedures; and
+Other planned audit procedures required to be performed so that the engagement complies with PCAOB standards.
+Multi-location Engagements
+.11 In an audit of the financial statements of a company with operations in multiple locations or business units, the auditor should determine the extent to which audit procedures should be performed at selected locations or business units to obtain sufficient appropriate evidence to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement. This includes determining the locations or business units at which to perform audit procedures, as well as the nature, timing, and extent of the procedures to be performed at those individual locations or business units. The auditor should assess the risks of material misstatement to the consolidated financial statements associated with the location or business unit and correlate the amount of audit attention devoted to the location or business unit with the degree of risk of material misstatement associated with that location or business unit.
+.12 Factors that are relevant to the assessment of the risks of material misstatement associated with a particular location or business unit and the determination of the necessary audit procedures include:
+The nature and amount of assets, liabilities, and transactions executed at the location or business unit, including, e.g., significant transactions that are outside the normal course of business for the company or that otherwise appear to be unusual due to their timing, size, or nature ("significant unusual transactions") executed at the location or business unit;
+The materiality of the location or business unit;
+The specific risks associated with the location or business unit that present a reasonable possibility of material misstatement to the company's consolidated financial statements;
+Whether the risks of material misstatement associated with the location or business unit apply to other locations or business units such that, in combination, they present a reasonable possibility of material misstatement to the company's consolidated financial statements;
+The degree of centralization of records or information processing;
+The effectiveness of the control environment, particularly with respect to management's control over the exercise of authority delegated to others and its ability to effectively supervise activities at the location or business unit; and
+The frequency, timing, and scope of monitoring activities by the company or others at the location or business unit.
+Note: When performing an audit of internal control over financial reporting, refer to Appendix B, Special Topics, of AS 2201 for considerations when a company has multiple locations or business units.
+.13 In determining the locations or business units at which to perform audit procedures, the auditor may take into account relevant activities performed by internal audit, as described in AS 2605, Consideration of the Internal Audit Function, or others, as described in AS 2201. AS 2605 and AS 2201 establish requirements regarding using the work of internal audit and others, respectively.
+Multi-location Engagements - Additional Considerations for Audits Involving Other Auditors or Referred-to Auditors
+.14 In an audit that involves other auditors or referred-to auditors, the lead auditor should perform the procedures in paragraphs .11- .13 of this standard to determine the locations or business units at which audit procedures should be performed.
+Changes During the Course of the Audit
+.15 The auditor should modify the overall audit strategy and the audit plan as necessary if circumstances change significantly during the course of the audit, including changes due to a revised assessment of the risks of material misstatement or the discovery of a previously unidentified risk of material misstatement.
+Persons with Specialized Skill or Knowledge
+.16 The auditor should determine whether specialized skill or knowledge, including relevant knowledge of foreign jurisdictions, is needed to perform appropriate risk assessments, plan or perform audit procedures, or evaluate audit results.
+.17 If a person with specialized skill or knowledge employed or engaged by the auditor participates in the audit, the auditor should have sufficient knowledge of the subject matter to be addressed by such a person to enable the auditor to:
+Communicate the objectives of that person's work;
+Determine whether that person's procedures meet the auditor's objectives; and
+Evaluate the results of that person's procedures as they relate to the nature, timing, and extent of other planned audit procedures and the effects on the auditor's report.
+Additional Considerations in Initial Audits
+.18 The auditor should undertake the following activities before starting an initial audit:
+Perform procedures regarding the acceptance of the client relationship and the specific audit engagement; and
+Communicate with the predecessor auditor in situations in which there has been a change of auditors in accordance with AS 2610, Initial Audits- Communications Between Predecessor and Successor Auditors.
+.19 The purpose and objective of planning the audit are the same for an initial audit or a recurring audit engagement. However, for an initial audit, the auditor should determine the additional planning activities necessary to establish an appropriate audit strategy and audit plan, including determining the audit procedures necessary to obtain sufficient appropriate audit evidence regarding the opening balances.
+Appendix A - Definitions
+.A1 For purposes of this standard, the terms listed below are defined as follows:
+.A2 Engagement partner - The member of the engagement team with primary responsibility for the audit.
+.A3 Engagement team -
+Engagement team includes:
+Partners, principals, and shareholders of, and accountants and other professional staff employed or engaged by, the lead auditor or other accounting firms who perform audit procedures on an audit or assist the engagement partner in fulfilling his or her planning or supervisory responsibilities on the audit pursuant to this standard or AS 1201, Supervision of the Audit Engagement; and
+Specialists who, in connection with the audit, (i) are employed by the lead auditor or an other auditor participating in the audit and (ii) assist that auditor in obtaining or evaluating audit evidence with respect to a relevant assertion of a significant account or disclosure.
+Engagement team does not include:
+The engagement quality reviewer and those assisting the reviewer (to which AS 1220, Engagement Quality Review, applies);
+Partners, principals, and shareholders of, and other individuals employed or engaged by, another accounting firm in situations in which the lead auditor divides responsibility for the audit with the other firm under AS 1206, Dividing Responsibility for the Audit with Another Accounting Firm; or
+Engaged specialists.
+.A4 Lead auditor -
+The registered public accounting firm issuing the auditor’s report on the company’s financial statements and, if applicable, internal control over financial reporting; and
+The engagement partner, and other engagement team members who both:
+Are partners, principals, shareholders, or employees of the registered public accounting firm issuing the auditor’s report (or individuals who work under that firm’s direction and control and function as the firm’s employees); and
+Assist the engagement partner in fulfilling his or her planning or supervisory responsibilities on the audit pursuant to AS 2101 or AS 1201.
+Note: The registered public accounting firm issuing the auditor’s report is also referred to in this standard as “the engagement partner’s firm.”
+Note: Individuals such as secondees who work under the direction and control of the registered public accounting firm issuing the auditor’s report would function as the firm’s employees.
+.A5 Other auditor -
+A member of the engagement team who is not:
+A partner, principal, shareholder, or employee of the lead auditor or
+An individual who works under the direction and control of the registered public accounting firm issuing the auditor’s report and functions as that firm’s employee; and
+A public accounting firm, if any, of which such engagement team member is a partner, principal, shareholder, or employee.
+.A6 Referred-to auditor - A public accounting firm, other than the lead auditor, that performs an audit of the financial statements and, if applicable, internal control over financial reporting, of one or more of the company’s business units and issues an auditor’s report in accordance with the standards of the PCAOB to which the lead auditor makes reference in the lead auditor’s report on the company’s financial statements and, if applicable, internal control over financial reporting.
+Footnotes (AS 2101 - Audit Planning):
+Terms defined in Appendix A, Definitions, are set in boldface type the first time they appear.
+The term “auditor,” as used in this standard, encompasses both the engagement partner and the engagement team members who assist the engagement partner in planning the audit. AS 1201, Supervision of the Audit Engagement, establishes requirements regarding supervision of the audit engagement, including a lead auditor’s supervision of the work of other auditors. AS 1206, Dividing Responsibility for the Audit with Another Accounting Firm, establishes requirements for a lead auditor regarding dividing responsibility for the audit of the company’s financial statements and, if applicable, internal control over financial reporting with another accounting firm (i.e., a referred-to auditor).
+See paragraph .38 of QC 1000, A Firm’s System of Quality Control.
+Under PCAOB Rule 3520, Auditor Independence, a registered public accounting firm or associated person’s independence obligation with respect to an audit client encompasses not only an obligation to satisfy the independence criteria applicable to the engagement set out in the rules and standards of the PCAOB, but also an obligation to satisfy all other independence criteria applicable to the engagement, including the independence criteria set out in the rules and regulations of the Securities and Exchange Commission (“SEC”) under the federal securities laws.
+In an audit that involves other auditors, see paragraphs .06D- .06F of this standard, which describe performing additional procedures regarding other auditors’ compliance with independence and ethics requirements. In an audit that involves referred-to auditors, see AS 1206.05- .07.
+The term “business units” includes subsidiaries, divisions, branches, components, or investments.
+See AS 1201.06, which describes determining the necessary extent of supervision. See also AS 1201.07, which states that for engagements that involve other auditors, AS 1201.08- .15 further describe procedures to be performed by the lead auditor with respect to the supervision of the work of other auditors, in conjunction with the required supervisory activities set forth in AS 1201.
+See, e.g., AS 1201.06; paragraph .11 of this standard. See generally AS 2301, The Auditor’s Responses to the Risks of Material Misstatement.
+See paragraph .C8 of AS 2201, An Audit of Internal Control Over Financial Reporting That Is Integrated with An Audit of Financial Statements.
+For audits involving referred-to auditors, see AS 1206.
+The lead auditor should also consider the implications for determining compliance with PCAOB Rule 3526.
+See PCAOB Rule 2100, Registration Requirements for Public Accounting Firms, and paragraph (p)(ii) of PCAOB Rule 1001, Definitions of Terms Employed in Rules, which defines the phrase “play a substantial role in the preparation or furnishing of an audit report.” See also AS 1206 for requirements for the lead auditor relating to the registration status of a referred-to auditor.
+See paragraph .06 of AS 1015, Due Professional Care in the Performance of Work, according to which “[e]ngagement team members should be assigned to tasks and supervised commensurate with their level of knowledge, skill, and ability ... ,” and AS 2301.05(a), which describes making appropriate assignments of significant engagement responsibilities.
+See, e.g., AS 1201.05, .09, .11, and .12, which establish requirements for the auditor’s review of work performed by engagement team members. See also paragraph .18 of AS 1215, Audit Documentation, according to which audit documentation supporting the work performed by other auditors must be retained by or be accessible to the office of the firm issuing the auditor’s report.
+Reference to the judgment of the auditor throughout this standard has the same meaning as “professional judgment” as described in AS 1000, General Responsibilities of the Auditor in Conducting an Audit.
+AS 2105, Consideration of Materiality in Planning and Performing an Audit.
+If no audit committee exists, all references to the audit committee in this standard apply to the entire board of directors of the company. See 15 U.S.C. §§ 78c(a)(58)(B) and 7201(3)(B).
+See, e.g., AS 1301. Also, various laws or regulations require other matters to be communicated. (See, e.g., Rule 2-07 of Regulation S-X, 17 CFR 210.2-07; and Rule 10A-3 under the Securities Exchange Act of 1934, 17 CFR 240.10A-3.) The requirements of this standard do not modify communications required by those other laws or regulations.
+See, e.g., AS 1015.06, which describes assigning auditors to tasks and supervising them commensurate with their level of knowledge, skill, and ability, and AS 1201.06, which describes how to determine the extent of supervisory activities necessary for proper supervision of engagement team members. See also AS 1201.08- .15, which further describe procedures to be performed by the lead auditor with respect to the supervision of the work of other auditors, in conjunction with the required supervisory activities set forth in AS 1201.
+See paragraphs .06- .06I of this standard..
+See, e.g., paragraph .16 of this standard, and AS 2301.05a.
+AS 2110, Identifying and Assessing Risks of Material Misstatement.
+AS 2301 and AS 2201.
+[13] [Footnote deleted.]
+Paragraph .66 of AS 2401, Consideration of Fraud in a Financial Statement Audit.
+AS 2105.10 describes the consideration of materiality in planning and performing audit procedures at an individual location or business unit.
+There is a reasonable possibility of an event, as used in this standard, when the likelihood of the event is either "reasonably possible" or "probable," as those terms are used in the FASB Accounting Standards Codification, Contingencies Topic, paragraph 450-20-25-1.
+AS 2201.B10-.B16.
+[18] [Footnote deleted.]
+See also paragraph .03 of AS 2820, Evaluating Consistency of Financial Statements.
+Footnotes (Appendix A - Definitions):
+See paragraph (a)(ii) of PCAOB Rule 1001, Definitions of Terms Employed in Rules, which defines the term “accountant.”
+AS 1210, Using the Work of an Auditor-Engaged Specialist, establishes requirements that apply to the use of specialists engaged by the auditor’s firm. Appendix A of AS 1105, Audit Evidence, sets forth the auditor’s responsibilities for using the work of a specialist employed or engaged by the company.
+See paragraph (r)(i) of PCAOB Rule 1001, which defines the term “registered public accounting firm.”
+See paragraph .05a of AS 2301, The Auditor’s Responses to the Risks of Material Misstatement, which describes making appropriate assignments of significant engagement responsibilities. See also paragraph .06 of AS 1015, Due Professional Care in the Performance of Work, according to which “[e]ngagement team members should be assigned to tasks and supervised commensurate with their level of knowledge, skill, and ability ....”
+For this purpose, the term “secondee” refers to an individual participating in a secondment arrangement in which, for at least three consecutive months, (1) a professional employee of an accounting firm in one country works for a registered public accounting firm that is located in another country and is issuing an auditor’s report, and (2) the professional employee performs audit procedures with respect to entities and their operations in that other country and does not perform more than de minimis audit procedures in relation to entities or business operations in the country of his or her employer. A secondee can be either physically located in that other country or working through a remote work arrangement.
+The term “business units” includes subsidiaries, divisions, branches, components, or investments.
+See AS 1206, which sets forth the lead auditor’s responsibilities regarding dividing responsibility for the audit of the company’s financial statements and, if applicable, internal control over financial reporting with a referred-to auditor.
